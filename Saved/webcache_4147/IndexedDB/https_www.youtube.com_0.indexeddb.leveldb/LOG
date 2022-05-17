@@ -1,0 +1,5 @@
+2022/05/16-13:01:55.560 36ac Reusing MANIFEST D:/pav0531/UE5 Projects/PraxeVSB/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/16-13:11:23.105 26a0 Level-0 table #5: started
+2022/05/16-13:11:23.160 26a0 Level-0 table #5: 6572 bytes OK
+2022/05/16-13:11:23.167 26a0 Delete type=0 #3
+2022/05/16-13:11:23.167 26a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
