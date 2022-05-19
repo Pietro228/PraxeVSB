@@ -4691,3 +4691,155 @@ Cancel: Abort the operation.
 [2022.05.19-09.28.51:677][479]Cmd: SELECT NONE
 [2022.05.19-09.29.01:474][754]Cmd: SELECT NONE
 [2022.05.19-09.29.14:097][126]Cmd: SELECT NONE
+[2022.05.19-09.32.10:781][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OldFactoryLevel" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.19-09.32.10:858][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.19-09.32.10:899][947]LogSavePackage: Moving output files for package: /Game/Maps/OldFactoryLevel
+[2022.05.19-09.32.10:900][947]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/OldFactoryLevel987DBF5240896AB862071C97F678036C.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap'
+[2022.05.19-09.32.10:916][947]LogFileHelpers: No new changes to save!
+[2022.05.19-09.32.10:935][947]AssetCheck: New page: Asset Save: OldFactoryLevel
+[2022.05.19-09.32.10:935][947]LogContentValidation: Display: Validating World /Game/Maps/OldFactoryLevel.OldFactoryLevel
+[2022.05.19-09.32.32:861][877]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.05.19-09.32.32:861][877]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.05.19-09.32.32:861][877]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.05.19-09.32.32:861][877]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2022.05.19-09.32.32:861][877]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2022.05.19-09.32.32:861][877]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.05.19-09.32.32:861][877]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.05.19-09.32.32:861][877]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.05.19-09.32.32:861][877]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.05.19-09.32.32:861][877]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.05.19-09.32.32:861][877]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.05.19-09.32.32:871][877]LogContentStreaming: Texture pool size now 800 MB
+[2022.05.19-09.32.34:822][ 82]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2022.05.19-09.32.34:822][ 82]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2022.05.19-09.32.34:822][ 82]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2022.05.19-09.32.34:822][ 82]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2022.05.19-09.32.34:822][ 82]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2022.05.19-09.32.34:822][ 82]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2022.05.19-09.32.34:822][ 82]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2022.05.19-09.32.34:822][ 82]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2022.05.19-09.32.34:822][ 82]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2022.05.19-09.32.34:822][ 82]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2022.05.19-09.32.34:822][ 82]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.05.19-09.32.34:908][ 87]LogContentStreaming: Texture pool size now 400 MB
+[2022.05.19-09.33.23:696][452]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.33.23:710][452]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.19-09.33.23:711][452]LogPlayLevel: [PlayLevel] Compiling IndrustrialLight before play...
+[2022.05.19-09.33.23:935][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.05.19-09.33.23:938][452]LogPlayLevel: PlayLevel: Blueprint regeneration took 228 ms (1 blueprints)
+[2022.05.19-09.33.23:938][452]PIE: New page: PIE session: OldFactoryLevel (19. 5. 2022 13:33:23)
+[2022.05.19-09.33.23:938][452]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.19-09.33.23:967][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028926s)
+[2022.05.19-09.33.23:967][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OldFactoryLevel.OldFactoryLevel to /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel (0.028999s)
+[2022.05.19-09.33.23:967][452]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.19-09.33.23:967][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.19-09.33.23:968][452]LogAIModule: Creating AISystem for world OldFactoryLevel
+[2022.05.19-09.33.23:968][452]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2022.05.19-09.33.24:044][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.05.19-09.33.24:045][452]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.05.19-09.33.24:046][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.33.24:046][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.33.24:046][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.33.24:046][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.33.24:046][452]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.19-09.33.24:046][452]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.19-09.33.24:046][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.19-09.33.24:046][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.33.24:046][452]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.33.24:046][452]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.33.24:046][452]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.33.24:048][452]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.19-09.33.24:156][452]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2022.05.19-09.33.24:157][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.33.24:157][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.33.24:157][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.33.24:157][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2022.05.19-09.33.24:157][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2022.05.19-09.33.24:159][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2022.05.19-09.33.24:159][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2022.05.19-09.33.24:159][452]LogInit: FAudioDevice initialized.
+[2022.05.19-09.33.24:159][452]LogAudio: Display: Audio Device (ID: 26) registered with world 'OldFactoryLevel'.
+[2022.05.19-09.33.24:208][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.33.24:209][452]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.05.19-09.33.24:214][452]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel up for play (max tick rate 0) at 2022.05.19-11.33.24
+[2022.05.19-09.33.24:214][452]LogWorld: Bringing up level for play took: 0.004943
+[2022.05.19-09.33.24:216][452]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2022.05.19-09.33.24:221][452]PIE: Server logged in
+[2022.05.19-09.33.24:222][452]PIE: Play in editor total start time 0,514 seconds.
+[2022.05.19-09.37.42:182][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.37.42:182][ 60]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.19-09.37.42:185][ 60]LogSlate: Window 'PraxeVSB Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.19-09.37.42:235][ 60]LogWorld: UWorld::CleanupWorld for OldFactoryLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.37.42:236][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.37.42:250][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.37.42:258][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.37.42:333][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.05.19-09.37.42:334][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.05.19-09.37.42:344][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.05.19-09.37.42:386][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.05.19-09.37.44:524][207]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.05.19-09.37.44:524][207]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.05.19-09.37.44:524][207]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.05.19-09.37.44:524][207]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2022.05.19-09.37.44:524][207]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2022.05.19-09.37.44:524][207]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.05.19-09.37.44:524][207]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.05.19-09.37.44:525][207]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.05.19-09.37.44:525][207]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.05.19-09.37.44:525][207]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.05.19-09.37.44:525][207]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.05.19-09.37.44:694][211]LogContentStreaming: Texture pool size now 800 MB
+[2022.05.19-09.37.45:167][267]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.05.19-09.37.45:179][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.19-09.37.45:179][267]PIE: New page: PIE session: OldFactoryLevel (19. 5. 2022 13:37:45)
+[2022.05.19-09.37.45:179][267]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.19-09.37.45:207][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027903s)
+[2022.05.19-09.37.45:207][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OldFactoryLevel.OldFactoryLevel to /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel (0.027979s)
+[2022.05.19-09.37.45:207][267]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.19-09.37.45:207][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.19-09.37.45:207][267]LogAIModule: Creating AISystem for world OldFactoryLevel
+[2022.05.19-09.37.45:207][267]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2022.05.19-09.37.45:284][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.05.19-09.37.45:287][267]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.05.19-09.37.45:287][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.19-09.37.45:287][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.19-09.37.45:287][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.19-09.37.45:287][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.19-09.37.45:287][267]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.19-09.37.45:287][267]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.19-09.37.45:287][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.19-09.37.45:287][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.19-09.37.45:287][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.19-09.37.45:287][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.19-09.37.45:287][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.19-09.37.45:289][267]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.19-09.37.45:430][267]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2022.05.19-09.37.45:430][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.19-09.37.45:430][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.19-09.37.45:430][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.19-09.37.45:432][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2022.05.19-09.37.45:432][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2022.05.19-09.37.45:434][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2022.05.19-09.37.45:434][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2022.05.19-09.37.45:434][267]LogInit: FAudioDevice initialized.
+[2022.05.19-09.37.45:434][267]LogAudio: Display: Audio Device (ID: 27) registered with world 'OldFactoryLevel'.
+[2022.05.19-09.37.45:486][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.37.45:486][267]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.05.19-09.37.45:491][267]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel up for play (max tick rate 0) at 2022.05.19-11.37.45
+[2022.05.19-09.37.45:491][267]LogWorld: Bringing up level for play took: 0.004929
+[2022.05.19-09.37.45:493][267]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2022.05.19-09.37.45:497][267]PIE: Server logged in
+[2022.05.19-09.37.45:499][267]PIE: Play in editor total start time 0,321 seconds.
+[2022.05.19-09.37.46:121][270]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.19-09.38.19:402][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.19-09.38.19:402][709]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.19-09.38.19:403][709]LogSlate: Window 'PraxeVSB Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.19-09.38.19:500][709]LogWorld: UWorld::CleanupWorld for OldFactoryLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.19-09.38.19:500][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.38.19:583][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.19-09.38.19:593][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.19-09.38.19:673][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.05.19-09.38.19:674][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.05.19-09.38.19:684][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.05.19-09.38.19:726][710]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.05.19-09.38.20:484][713]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
