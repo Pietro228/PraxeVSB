@@ -4287,3 +4287,1275 @@ Cancel: Abort the operation.
 [2022.05.20-08.19.00:404][370]LogContentValidation: Display: Validating Texture2D /Game/Models/Rooms/Room/Textures/Bricks/factory_brick_disp_4k.factory_brick_disp_4k
 [2022.05.20-08.19.00:404][370]LogContentValidation: Display: Validating Material /Game/Models/Rooms/Room/Glass.Glass
 [2022.05.20-08.19.00:404][370]LogContentValidation: Display: Validating Material /Game/Models/Rooms/Room/bricks.bricks
+[2022.05.20-08.21.58:821][ 92]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.05.20-08.21.58:835][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-08.21.58:835][ 92]PIE: New page: PIE session: OldFactoryLevel (20. 5. 2022 12:21:58)
+[2022.05.20-08.21.58:836][ 92]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-08.21.58:884][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048432s)
+[2022.05.20-08.21.58:884][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OldFactoryLevel.OldFactoryLevel to /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel (0.048533s)
+[2022.05.20-08.21.58:884][ 92]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.20-08.21.58:884][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-08.21.58:885][ 92]LogAIModule: Creating AISystem for world OldFactoryLevel
+[2022.05.20-08.21.58:885][ 92]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2022.05.20-08.21.58:910][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.05.20-08.21.58:912][ 92]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.05.20-08.21.58:912][ 92]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-08.21.58:912][ 92]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-08.21.58:912][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-08.21.58:912][ 92]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-08.21.58:912][ 92]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.20-08.21.58:912][ 92]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.20-08.21.58:912][ 92]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.20-08.21.58:912][ 92]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-08.21.58:913][ 92]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-08.21.58:913][ 92]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-08.21.58:913][ 92]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-08.21.58:914][ 92]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.20-08.21.59:034][ 92]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2022.05.20-08.21.59:034][ 92]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-08.21.59:034][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-08.21.59:034][ 92]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-08.21.59:035][ 92]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.05.20-08.21.59:035][ 92]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.05.20-08.21.59:037][ 92]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.05.20-08.21.59:037][ 92]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.05.20-08.21.59:037][ 92]LogInit: FAudioDevice initialized.
+[2022.05.20-08.21.59:037][ 92]LogAudio: Display: Audio Device (ID: 17) registered with world 'OldFactoryLevel'.
+[2022.05.20-08.21.59:091][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-08.21.59:092][ 92]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.05.20-08.21.59:100][ 92]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel up for play (max tick rate 0) at 2022.05.20-10.21.59
+[2022.05.20-08.21.59:100][ 92]LogWorld: Bringing up level for play took: 0.008338
+[2022.05.20-08.21.59:102][ 92]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2022.05.20-08.21.59:107][ 92]PIE: Server logged in
+[2022.05.20-08.21.59:109][ 92]PIE: Play in editor total start time 0,274 seconds.
+[2022.05.20-08.22.31:806][  8]Cmd: ToggleDebugCamera
+[2022.05.20-08.23.05:964][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-08.23.05:964][ 76]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-08.23.05:966][ 76]LogSlate: Window 'PraxeVSB Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.20-08.23.05:977][ 76]LogWorld: UWorld::CleanupWorld for OldFactoryLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-08.23.05:978][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.23.06:004][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-08.23.06:008][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.23.06:034][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.05.20-08.23.06:036][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.05.20-08.23.06:044][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.05.20-08.23.06:067][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.05.20-08.23.14:025][318]Cmd: SELECT NONE
+[2022.05.20-08.23.32:782][876]Cmd: SELECT NONE
+[2022.05.20-08.25.34:794][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pav0531\Downloads\Boxes/Boxes/Box 1/1_DTaXjf6Njqiy0VVQ4pl0FQ.jpeg)
+[2022.05.20-08.25.34:814][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_1/1_DTaXjf6Njqiy0VVQ4pl0FQ.1_DTaXjf6Njqiy0VVQ4pl0FQ (TFO_AutoDXT, 1280X960 X1X1) (Required Memory Estimate: 23.4375 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.34:816][720]LogAssetTools: Warning: Failed to import 'C:\Users\pav0531\Downloads\Boxes/Boxes/Box 1/warehouse box1.blend'. Unknown extension 'blend'.
+[2022.05.20-08.25.34:817][720]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\pav0531\Downloads\Boxes/Boxes/Box 1/warehouse box1.fbx)
+[2022.05.20-08.25.34:903][720]LogFbx: Loading FBX Scene from C:\Users\pav0531\Downloads\Boxes/Boxes/Box 1/warehouse box1.fbx
+[2022.05.20-08.25.34:911][720]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.20-08.25.41:314][720]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.20-08.25.41:413][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_diffuse.warehouse_box_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.41:413][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.warehouse_box_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.41:416][720]LogMaterial: Display: Missing cached shadermap for warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9541C58C6802EBFE7BA3B318771ACBEEBD457EA4), compiling. 
+[2022.05.20-08.25.41:420][720]LogFbx: Display: Triangulating static mesh warehouse_box
+[2022.05.20-08.25.41:440][720]LogStaticMesh: Display: Building static mesh warehouse_box1...
+[2022.05.20-08.25.41:465][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_normal.warehouse_box_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.41:465][720]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Boxes/Boxes/Box_1/warehouse_box1.warehouse_box1
+[2022.05.20-08.25.41:481][720]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.20-08.25.43:089][720]LogSlate: Window 'Message' being destroyed
+[2022.05.20-08.25.43:094][720]Message dialog closed, result: YesAll, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_diffuse
+[2022.05.20-08.25.43:097][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pav0531\Downloads\Boxes/Boxes/Box 1/warehouse_box_diffuse.png)
+[2022.05.20-08.25.43:974][720]LogSlate: Window 'Message' being destroyed
+[2022.05.20-08.25.43:979][720]Message dialog closed, result: NoAll, title: Message, text: You are about to import 'warehouse_box_diffuse' over an existing texture. Would you like to overwrite the existing settings?
+
+Yes or Yes to All: Overwrite the existing settings.
+No or No to All: Preserve the existing settings.
+Cancel: Abort the operation.
+[2022.05.20-08.25.44:004][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_diffuse.warehouse_box_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.44:008][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pav0531\Downloads\Boxes/Boxes/Box 1/warehouse_box_normal.png)
+[2022.05.20-08.25.44:035][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pav0531\Downloads\Boxes/Boxes/Box 1/warehouse_box_roughness.png)
+[2022.05.20-08.25.44:050][720]LogAssetTools: Warning: Failed to import 'C:\Users\pav0531\Downloads\Boxes/Boxes/Box 2/warehouse_box2.blend'. Unknown extension 'blend'.
+[2022.05.20-08.25.44:050][720]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\pav0531\Downloads\Boxes/Boxes/Box 2/warehouse_box2.fbx)
+[2022.05.20-08.25.44:080][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_normal.warehouse_box_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.44:130][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.warehouse_box_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.44:135][720]LogFbx: Loading FBX Scene from C:\Users\pav0531\Downloads\Boxes/Boxes/Box 2/warehouse_box2.fbx
+[2022.05.20-08.25.44:142][720]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.20-08.25.46:102][720]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.20-08.25.46:215][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_diffuse.warehouse_box2_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.46:215][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.warehouse_box2_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.46:217][720]LogMaterial: Display: Missing cached shadermap for warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: FB05AAAF71D28B10E83D09B60AEB756FABCDBF99), compiling. 
+[2022.05.20-08.25.46:222][720]LogFbx: Display: Triangulating static mesh warehouse_box2
+[2022.05.20-08.25.46:295][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_normal.warehouse_box2_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.46:296][720]LogStaticMesh: Display: Building static mesh warehouse_box2...
+[2022.05.20-08.25.46:334][720]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.25.46:355][720]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.05.20-08.25.46:397][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pav0531\Downloads\Boxes/Boxes/Box 2/warehouse_box2_diffuse.png)
+[2022.05.20-08.25.46:430][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pav0531\Downloads\Boxes/Boxes/Box 2/warehouse_box2_metalness.png)
+[2022.05.20-08.25.46:446][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_diffuse.warehouse_box2_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.46:446][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_metalness.warehouse_box2_metalness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.46:446][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pav0531\Downloads\Boxes/Boxes/Box 2/warehouse_box2_normal.png)
+[2022.05.20-08.25.46:477][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pav0531\Downloads\Boxes/Boxes/Box 2/warehouse_box2_roughness.png)
+[2022.05.20-08.25.46:548][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_normal.warehouse_box2_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.46:624][720]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.warehouse_box2_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.25.46:624][720]LogTexture: Display: Waiting for textures to be ready 2/3 (/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness) ...
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: ================================================
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Total job queries 1429, among them cache hits 821 (57.45%)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Tracking 544 distinct input hashes that result in 113 distinct outputs (20.77%)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: RAM used: 0.31 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Shaders Compiled: 212
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Jobs assigned 546, completed 544 (99.63%)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Average time worker was idle: 20.61 s
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Time job spent in pending queue: average 3.43 s, longest 29.27 s
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Job execution time: average 1.63 s, max 11.20 s
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Job life time (pending + execution): average 5.07 s, max 30.38
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 220.91 s
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Jobs were issued in 459 batches (only local compilation was used), average 1.19 jobs/batch
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Average processing rate: 2.46 jobs/sec
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Effective parallelization: 1.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   17 times, average 0.76 sec, max 1.10 sec, min 0.59 sec)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled   17 times, average 0.75 sec, max 1.02 sec, min 0.57 sec)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled  118 times, average 0.74 sec, max 1.03 sec, min 0.58 sec)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   50 times, average 0.68 sec, max 1.11 sec, min 0.54 sec)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   17 times, average 0.67 sec, max 0.72 sec, min 0.63 sec)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.17% of total time (compiled  118 times, average 0.74 sec, max 1.03 sec, min 0.58 sec)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.11% of total time (compiled  118 times, average 0.65 sec, max 1.15 sec, min 0.46 sec)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.85% of total time (compiled   50 times, average 0.68 sec, max 1.11 sec, min 0.54 sec)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.20% of total time (compiled   50 times, average 0.29 sec, max 0.51 sec, min 0.23 sec)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.73% of total time (compiled   17 times, average 0.76 sec, max 1.10 sec, min 0.59 sec)
+[2022.05.20-08.25.47:625][744]LogShaderCompilers: Display: ================================================
+[2022.05.20-08.25.48:247][762]LogSlate: Window 'Message Log' being destroyed
+[2022.05.20-08.25.48:256][762]LogSlate: Window 'Message Log' being destroyed
+[2022.05.20-08.25.54:937][967]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Boxes/Boxes/Box_1/warehouse_box_mat.warehouse_box_mat
+[2022.05.20-08.25.54:938][967]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: D994D57956BBAF70F0D2ECB3F71E67D989C148DB), compiling. 
+[2022.05.20-08.25.54:958][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-08.25.55:102][967]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: C3319F5B766DB8D16256B12C21332A15AE3C2D5E), compiling. 
+[2022.05.20-08.25.55:106][967]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2CB609219749D1880F682354DB307562EE3D7D12), compiling. 
+[2022.05.20-08.25.55:108][967]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C3B3CA769F481CB8F58F991AE4D13F1CEF2D67C), compiling. 
+[2022.05.20-08.25.55:110][967]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DB0E2267A844F1174F9984802EB975EFF01B5C8B), compiling. 
+[2022.05.20-08.25.55:112][967]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F8D85144FB6F5C913461DA7AB09D5FC98F673E41), compiling. 
+[2022.05.20-08.25.55:138][967]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.20-08.25.55:138][967]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.25.55:138][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.25.55:138][967]MaterialEditorStats: Shader Count: 0
+[2022.05.20-08.25.55:228][969]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.20-08.25.55:228][969]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.25.55:228][969]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.25.55:228][969]MaterialEditorStats: Shader Count: 4
+[2022.05.20-08.25.58:696][ 61]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.warehouse_box_roughness
+[2022.05.20-08.25.58:696][ 61]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.05.20-08.26.01:559][239]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.warehouse_box_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.26.01:563][239]LogMaterial: Display: Missing cached shadermap for warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8348676E6C0943E6D5252AE8E914EFDB45C58682), compiling. 
+[2022.05.20-08.26.01:563][239]LogMaterial: Warning: [AssetLog] /Game/Models/Boxes/Boxes/Box_1/warehouse_box_mat.warehouse_box_mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Masks for /Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.warehouse_box_roughness
+
+[2022.05.20-08.26.01:566][239]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1E916F1ADEB25835263069DDC5FD2D26BE0A9338), compiling. 
+[2022.05.20-08.26.01:567][239]LogMaterial: Warning: [AssetLog] /Engine/Transient.warehouse_box_mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Masks for /Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.warehouse_box_roughness
+
+[2022.05.20-08.26.01:578][239]MaterialEditorStats: Error: [SM5] (Node TextureSample) Sampler type is Color, should be Masks for /Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.warehouse_box_roughness
+[2022.05.20-08.26.03:177][277]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 97BC231B503AC870336C97BDCACFC5F3CC83DD50), compiling. 
+[2022.05.20-08.26.03:178][277]LogMaterial: Warning: [AssetLog] /Engine/Transient.warehouse_box_mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Masks for /Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.warehouse_box_roughness
+
+[2022.05.20-08.26.04:338][387]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 04D7CB16B47C0F7F8D62C8F06DF75C8E8CE23883), compiling. 
+[2022.05.20-08.26.04:340][387]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3850091744ABC04A8A2F4BF4F56F06FE44FFFE82), compiling. 
+[2022.05.20-08.26.04:344][387]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 117D00956AD12666F04E7AAFEEE21A1D065BEB1F), compiling. 
+[2022.05.20-08.26.04:351][387]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.20-08.26.04:351][387]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.26.04:351][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.26.04:351][387]MaterialEditorStats: Shader Count: 0
+[2022.05.20-08.26.05:345][414]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.20-08.26.05:345][414]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.26.05:345][414]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.26.05:346][414]MaterialEditorStats: Shader Count: 2
+[2022.05.20-08.26.24:656][924]LogMaterialEditor: Applying material warehouse_box_mat
+[2022.05.20-08.26.25:099][924]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7B962CDA70FCFA31DB56BC9C1F5294011EA89E3A), compiling. 
+[2022.05.20-08.26.25:110][924]LogMaterial: Display: Missing cached shadermap for warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9A1C9F71FC70E205962E8EAB13A244F2506F114C), compiling. 
+[2022.05.20-08.26.25:154][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.05.20-08.26.26:060][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.20-08.26.26:066][924]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-08.26.26:066][924]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.26.26:066][924]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.26.26:067][924]MaterialEditorStats: Shader Count: 2
+[2022.05.20-08.26.26:093][926]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.20-08.26.26:093][926]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.26.26:093][926]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.26.26:093][926]MaterialEditorStats: Shader Count: 6
+[2022.05.20-08.26.30:420][ 52]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat.warehouse_box2_mat
+[2022.05.20-08.26.30:422][ 52]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: C5980F0CF3586AF609C5742E07D5F12476715253), compiling. 
+[2022.05.20-08.26.30:457][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-08.26.30:513][ 52]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2AAB799711C5D4356ED326DA7E0FA5CC9A92BB01), compiling. 
+[2022.05.20-08.26.30:517][ 52]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 447AE356CEFC2CDEDD890DA1FC52DF10707CA34A), compiling. 
+[2022.05.20-08.26.30:519][ 52]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B959C4B36FB408B24D2E4A592147D3FB0FCD7053), compiling. 
+[2022.05.20-08.26.30:521][ 52]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 863FC5942859A0A0FC0211EA9B092F1A4FED3A60), compiling. 
+[2022.05.20-08.26.30:523][ 52]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 37295981FA3C7F26AE4E5899C5B8D133E3AC853D), compiling. 
+[2022.05.20-08.26.30:552][ 52]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.20-08.26.30:552][ 52]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.26.30:552][ 52]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.26.30:552][ 52]MaterialEditorStats: Shader Count: 0
+[2022.05.20-08.26.30:661][ 54]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.20-08.26.30:661][ 54]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.26.30:661][ 54]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.26.30:661][ 54]MaterialEditorStats: Shader Count: 4
+[2022.05.20-08.26.32:828][ 99]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.warehouse_box2_roughness
+[2022.05.20-08.26.32:828][ 99]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.05.20-08.26.35:172][221]LogTexture: Display: Building textures: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.warehouse_box2_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.26.35:175][221]LogMaterial: Display: Missing cached shadermap for warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B9260A593349997D547D8387F45FF6CDDB79D5EF), compiling. 
+[2022.05.20-08.26.35:176][221]LogMaterial: Warning: [AssetLog] /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat.warehouse_box2_mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Masks for /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.warehouse_box2_roughness
+
+[2022.05.20-08.26.35:178][221]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7FC13DBC5533DDD8D9C0F828FA0E339F1D8CA55E), compiling. 
+[2022.05.20-08.26.35:179][221]LogMaterial: Warning: [AssetLog] /Engine/Transient.warehouse_box2_mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Masks for /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.warehouse_box2_roughness
+
+[2022.05.20-08.26.35:192][221]MaterialEditorStats: Error: [SM5] (Node TextureSample) Sampler type is Color, should be Masks for /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.warehouse_box2_roughness
+[2022.05.20-08.26.37:306][272]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: F5699540A0F89AF4474C5CD3F3A09618437CAF13), compiling. 
+[2022.05.20-08.26.37:306][272]LogMaterial: Warning: [AssetLog] /Engine/Transient.warehouse_box2_mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Masks for /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.warehouse_box2_roughness
+
+[2022.05.20-08.26.38:452][380]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: E8187751A09C6FCC62466D971C5889D3205AD16D), compiling. 
+[2022.05.20-08.26.38:455][380]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F91CFD2BAFFC0B0B384282BD72D79E571AE144F5), compiling. 
+[2022.05.20-08.26.38:458][380]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A7422279B5935648CD797D707F8E73C1FA546651), compiling. 
+[2022.05.20-08.26.38:465][380]MaterialEditorStats: Texture samplers: 0/16
+[2022.05.20-08.26.38:465][380]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.26.38:465][380]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.26.38:465][380]MaterialEditorStats: Shader Count: 0
+[2022.05.20-08.26.39:430][406]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.20-08.26.39:430][406]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.26.39:430][406]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.26.39:430][406]MaterialEditorStats: Shader Count: 2
+[2022.05.20-08.26.51:903][732]LogMaterialEditor: Applying material warehouse_box2_mat
+[2022.05.20-08.26.52:329][732]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: A8ABDB3F12C5A65F073ED683DA6EE525D0267321), compiling. 
+[2022.05.20-08.26.52:339][732]LogMaterial: Display: Missing cached shadermap for warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5AF83F9C622655BC89CB21BD10BF3C3FBE1CB54B), compiling. 
+[2022.05.20-08.26.52:382][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.05.20-08.26.53:406][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.20-08.26.53:412][732]MaterialEditorStats: Texture samplers: 3/16
+[2022.05.20-08.26.53:412][732]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.26.53:412][732]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.26.53:412][732]MaterialEditorStats: Shader Count: 2
+[2022.05.20-08.26.53:439][734]MaterialEditorStats: Texture samplers: 5/16
+[2022.05.20-08.26.53:440][734]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.26.53:440][734]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.26.53:440][734]MaterialEditorStats: Shader Count: 6
+[2022.05.20-08.27.15:333][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.05.20-08.27.15:387][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OldFactoryLevel" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.20-08.27.15:410][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.05.20-08.27.15:476][430]LogSavePackage: Moving output files for package: /Game/Maps/OldFactoryLevel
+[2022.05.20-08.27.15:476][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/OldFactoryLevelA33701D94301466A45E7F2A0340D0FD4.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap'
+[2022.05.20-08.27.15:499][430]LogFileHelpers: No new changes to save!
+[2022.05.20-08.27.15:499][430]LogFileHelpers: Saving map 'OldFactoryLevel' took 0.112
+[2022.05.20-08.27.15:500][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_1/1_DTaXjf6Njqiy0VVQ4pl0FQ" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/1_DTaXjf6Njqiy0VVQ4pl0FQ.uasset" SILENT=true
+[2022.05.20-08.27.15:505][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_1/1_DTaXjf6Njqiy0VVQ4pl0FQ
+[2022.05.20-08.27.15:506][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/1_DTaXjf6Njqiy0VVQ4pl0FQB68828E844FDAC5DDCD5ED84E2A94E6E.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/1_DTaXjf6Njqiy0VVQ4pl0FQ.uasset'
+[2022.05.20-08.27.15:526][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_1/warehouse_box1" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/warehouse_box1.uasset" SILENT=true
+[2022.05.20-08.27.15:533][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_1/warehouse_box1
+[2022.05.20-08.27.15:533][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box13F7739534A8D5158C28D74B668E4FB2A.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/warehouse_box1.uasset'
+[2022.05.20-08.27.17:671][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.05.20-08.27.19:333][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000368s (1.766678s overbudget)
+[2022.05.20-08.27.19:358][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_1/warehouse_box_mat" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/warehouse_box_mat.uasset" SILENT=true
+[2022.05.20-08.27.19:363][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_mat
+[2022.05.20-08.27.19:364][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box_matE909AAB446539B354695A087A0072998.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/warehouse_box_mat.uasset'
+[2022.05.20-08.27.19:365][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_1/warehouse_box_diffuse" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/warehouse_box_diffuse.uasset" SILENT=true
+[2022.05.20-08.27.19:473][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_diffuse
+[2022.05.20-08.27.19:473][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box_diffuse13F90068491CE956B0FA249EF6DB4713.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/warehouse_box_diffuse.uasset'
+[2022.05.20-08.27.19:474][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.uasset" SILENT=true
+[2022.05.20-08.27.19:509][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness
+[2022.05.20-08.27.19:509][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box_roughnessABE79F0D42840E96AA838787693D10A9.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.uasset'
+[2022.05.20-08.27.19:511][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_1/warehouse_box_normal" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/warehouse_box_normal.uasset" SILENT=true
+[2022.05.20-08.27.19:619][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_1/warehouse_box_normal
+[2022.05.20-08.27.19:619][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box_normal03C831434366B4652D836F9C41A97418.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_1/warehouse_box_normal.uasset'
+[2022.05.20-08.27.19:636][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_2/warehouse_box2" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2.uasset" SILENT=true
+[2022.05.20-08.27.19:646][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2
+[2022.05.20-08.27.19:646][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box27E71EF5042C9E3CAE789609B869B9375.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2.uasset'
+[2022.05.20-08.27.21:816][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.05.20-08.27.23:243][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003892s (1.584669s overbudget)
+[2022.05.20-08.27.23:286][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_mat.uasset" SILENT=true
+[2022.05.20-08.27.23:292][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat
+[2022.05.20-08.27.23:292][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box2_mat5C8E4A634C814B34D1BB38A909C8F04D.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_mat.uasset'
+[2022.05.20-08.27.23:294][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_diffuse" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_diffuse.uasset" SILENT=true
+[2022.05.20-08.27.23:402][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_diffuse
+[2022.05.20-08.27.23:402][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box2_diffuseD4A6513E4F8ADC5DCB05119FFF4BBE39.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_diffuse.uasset'
+[2022.05.20-08.27.23:405][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.uasset" SILENT=true
+[2022.05.20-08.27.23:442][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness
+[2022.05.20-08.27.23:442][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box2_roughness27C34F9C40D8BFAEBF53C8AF2939C2FD.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.uasset'
+[2022.05.20-08.27.23:444][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_normal" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_normal.uasset" SILENT=true
+[2022.05.20-08.27.23:556][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_normal
+[2022.05.20-08.27.23:557][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box2_normal5906E662417CF3F8E0DDED907838C48F.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_normal.uasset'
+[2022.05.20-08.27.23:558][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_metalness" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_metalness.uasset" SILENT=true
+[2022.05.20-08.27.23:592][430]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_metalness
+[2022.05.20-08.27.23:592][430]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box2_metalness62A649374DCBFAC2845C5B8DED6690F4.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_metalness.uasset'
+[2022.05.20-08.27.23:603][430]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.20-08.27.23:603][430]LogContentValidation: Display: Validating World /Game/Maps/OldFactoryLevel.OldFactoryLevel
+[2022.05.20-08.27.23:603][430]LogContentValidation: Display: Validating Texture2D /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_metalness.warehouse_box2_metalness
+[2022.05.20-08.27.23:603][430]LogContentValidation: Display: Validating Texture2D /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_normal.warehouse_box2_normal
+[2022.05.20-08.27.23:603][430]LogContentValidation: Display: Validating Texture2D /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_roughness.warehouse_box2_roughness
+[2022.05.20-08.27.23:603][430]LogContentValidation: Display: Validating Texture2D /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_diffuse.warehouse_box2_diffuse
+[2022.05.20-08.27.23:603][430]LogContentValidation: Display: Validating Material /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat.warehouse_box2_mat
+[2022.05.20-08.27.23:603][430]LogContentValidation: Display: Validating StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.27.23:604][430]LogContentValidation: Display: Validating Texture2D /Game/Models/Boxes/Boxes/Box_1/warehouse_box_normal.warehouse_box_normal
+[2022.05.20-08.27.23:604][430]LogContentValidation: Display: Validating Texture2D /Game/Models/Boxes/Boxes/Box_1/warehouse_box_roughness.warehouse_box_roughness
+[2022.05.20-08.27.23:604][430]LogContentValidation: Display: Validating Texture2D /Game/Models/Boxes/Boxes/Box_1/warehouse_box_diffuse.warehouse_box_diffuse
+[2022.05.20-08.27.23:604][430]LogContentValidation: Display: Validating Material /Game/Models/Boxes/Boxes/Box_1/warehouse_box_mat.warehouse_box_mat
+[2022.05.20-08.27.23:604][430]LogContentValidation: Display: Validating StaticMesh /Game/Models/Boxes/Boxes/Box_1/warehouse_box1.warehouse_box1
+[2022.05.20-08.27.23:604][430]LogContentValidation: Display: Validating Texture2D /Game/Models/Boxes/Boxes/Box_1/1_DTaXjf6Njqiy0VVQ4pl0FQ.1_DTaXjf6Njqiy0VVQ4pl0FQ
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: Texture samplers: 6/16
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: Shader Count: 16
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: Base pass shader: 134 instructions
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: Texture samplers: 6/16
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.05.20-08.27.23:607][430]MaterialEditorStats: Shader Count: 16
+[2022.05.20-08.27.48:165][185]LogSlate: Window 'Message' being destroyed
+[2022.05.20-08.27.48:171][185]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat.warehouse_box2_mat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.05.20-08.27.48:602][185]LogMaterial: Display: Missing cached shadermap for Preview:warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2AB1B021AC94FC4E6681EF4AEE0BF6B0A7F775DD), compiling. 
+[2022.05.20-08.27.48:613][185]LogMaterial: Display: Missing cached shadermap for warehouse_box2_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 8F306898CA663E42C8DA8B6E52352DF128782FE3), compiling. 
+[2022.05.20-08.27.48:656][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.05.20-08.27.48:882][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.20-08.27.48:912][185]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-08.27.48:912][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.27.52:444][281]LogSlate: Window 'warehouse_box_mat' being destroyed
+[2022.05.20-08.27.52:469][281]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-08.27.52:469][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.28.06:918][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.28.06:918][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.28.06:919][718]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_49
+[2022.05.20-08.28.07:707][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.28.07:707][757]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.28.07:707][757]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_54
+[2022.05.20-08.28.46:663][ 42]Cmd: SELECT NONE
+[2022.05.20-08.28.49:173][117]Cmd: DELETE
+[2022.05.20-08.28.49:173][117]Cmd: ACTOR DELETE
+[2022.05.20-08.28.49:178][117]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.20-08.28.49:209][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.05.20-08.28.49:219][117]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.05.20-08.28.49:750][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.28.49:750][133]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.28.49:750][133]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_56
+[2022.05.20-08.28.50:505][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.28.50:505][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.28.50:506][162]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_57
+[2022.05.20-08.29.04:642][180]Cmd: SELECT NONE
+[2022.05.20-08.29.17:268][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_1/warehouse_box1.warehouse_box1
+[2022.05.20-08.29.17:268][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_1/warehouse_box1.warehouse_box1
+[2022.05.20-08.29.17:269][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_1/warehouse_box1.warehouse_box1 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_59
+[2022.05.20-08.29.18:120][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_1/warehouse_box1.warehouse_box1
+[2022.05.20-08.29.18:120][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_1/warehouse_box1.warehouse_box1
+[2022.05.20-08.29.18:121][559]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_1/warehouse_box1.warehouse_box1 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_61
+[2022.05.20-08.30.31:198][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.30.31:198][643]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.30.31:199][643]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_63
+[2022.05.20-08.30.32:456][787]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.30.32:456][787]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.30.32:456][787]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_64
+[2022.05.20-08.30.34:575][995]Cmd: EDIT COPY
+[2022.05.20-08.30.34:751][ 11]Cmd: EDIT COPY
+[2022.05.20-08.30.34:988][ 37]Cmd: EDIT PASTE
+[2022.05.20-08.30.37:089][246]Cmd: EDIT COPY
+[2022.05.20-08.30.37:260][264]Cmd: EDIT PASTE
+[2022.05.20-08.30.48:671][403]Cmd: SELECT NONE
+[2022.05.20-08.31.04:668][972]Cmd: SELECT NONE
+[2022.05.20-08.31.08:519][348]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.31.08:519][348]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.31.08:519][348]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_68
+[2022.05.20-08.31.09:909][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.31.09:909][512]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.31.09:909][512]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_69
+[2022.05.20-08.31.11:192][619]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.31.11:192][619]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.31.11:192][619]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_70
+[2022.05.20-08.31.13:957][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.31.13:957][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2
+[2022.05.20-08.31.13:958][930]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/Boxes/Boxes/Box_2/warehouse_box2.warehouse_box2 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_71
+[2022.05.20-08.31.15:283][ 56]Cmd: SELECT NONE
+[2022.05.20-08.32.46:295][ 14]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/S_Rusty_Hanging_Chain_wcwsfhzdw_lod3.S_Rusty_Hanging_Chain_wcwsfhzdw_lod3
+[2022.05.20-08.32.46:295][ 14]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/S_Rusty_Hanging_Chain_wcwsfhzdw_lod3.S_Rusty_Hanging_Chain_wcwsfhzdw_lod3
+[2022.05.20-08.32.46:295][ 14]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/S_Rusty_Hanging_Chain_wcwsfhzdw_lod3.S_Rusty_Hanging_Chain_wcwsfhzdw_lod3 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_72
+[2022.05.20-08.32.46:313][ 14]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/S_Rusty_Hanging_Chain_wcwsfhzdw_lod3) ...
+[2022.05.20-08.32.47:300][ 14]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/T_Rusty_Hanging_Chain_wcwsfhzdw_2K_N.T_Rusty_Hanging_Chain_wcwsfhzdw_2K_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.32.47:300][ 14]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/T_Rusty_Hanging_Chain_wcwsfhzdw_2K_D.T_Rusty_Hanging_Chain_wcwsfhzdw_2K_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.32.47:300][ 14]LogStaticMesh: Display: Building static mesh S_Rusty_Hanging_Chain_wcwsfhzdw_lod3...
+[2022.05.20-08.32.47:300][ 14]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/T_RustyHangingChain_wcwsfhzdw_2K_DpR.T_RustyHangingChain_wcwsfhzdw_2K_DpR (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.32.48:105][ 14]LogStaticMesh: Built static mesh [1.24s] /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/S_Rusty_Hanging_Chain_wcwsfhzdw_lod3.S_Rusty_Hanging_Chain_wcwsfhzdw_lod3
+[2022.05.20-08.32.49:473][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/S_Rusty_Hanging_Chain_wcwsfhzdw_lod3.S_Rusty_Hanging_Chain_wcwsfhzdw_lod3
+[2022.05.20-08.32.49:473][ 72]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/S_Rusty_Hanging_Chain_wcwsfhzdw_lod3.S_Rusty_Hanging_Chain_wcwsfhzdw_lod3
+[2022.05.20-08.32.49:474][ 72]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/S_Rusty_Hanging_Chain_wcwsfhzdw_lod3.S_Rusty_Hanging_Chain_wcwsfhzdw_lod3 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_73
+[2022.05.20-08.33.35:601][759]Cmd: SELECT NONE
+[2022.05.20-08.33.38:626][ 65]Cmd: SELECT NONE
+[2022.05.20-08.33.54:295][824]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/T_Rusty_Hanging_Chain_wcwsfihdw_2K_N.T_Rusty_Hanging_Chain_wcwsfihdw_2K_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.33.54:318][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/S_Rusty_Hanging_Chain_wcwsfihdw_lod3.S_Rusty_Hanging_Chain_wcwsfihdw_lod3
+[2022.05.20-08.33.54:318][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/S_Rusty_Hanging_Chain_wcwsfihdw_lod3.S_Rusty_Hanging_Chain_wcwsfihdw_lod3
+[2022.05.20-08.33.54:318][824]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/S_Rusty_Hanging_Chain_wcwsfihdw_lod3.S_Rusty_Hanging_Chain_wcwsfihdw_lod3 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_74
+[2022.05.20-08.33.54:337][824]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/T_Rusty_Hanging_Chain_wcwsfihdw_2K_D.T_Rusty_Hanging_Chain_wcwsfihdw_2K_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.33.54:337][824]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/S_Rusty_Hanging_Chain_wcwsfihdw_lod3) ...
+[2022.05.20-08.33.55:323][824]LogStaticMesh: Display: Building static mesh S_Rusty_Hanging_Chain_wcwsfihdw_lod3...
+[2022.05.20-08.33.55:323][824]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/T_RustyHangingChain_wcwsfihdw_2K_DpR.T_RustyHangingChain_wcwsfihdw_2K_DpR (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.20-08.33.56:754][824]LogStaticMesh: Built static mesh [1.95s] /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/S_Rusty_Hanging_Chain_wcwsfihdw_lod3.S_Rusty_Hanging_Chain_wcwsfihdw_lod3
+[2022.05.20-08.33.58:186][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/S_Rusty_Hanging_Chain_wcwsfihdw_lod3.S_Rusty_Hanging_Chain_wcwsfihdw_lod3
+[2022.05.20-08.33.58:186][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/S_Rusty_Hanging_Chain_wcwsfihdw_lod3.S_Rusty_Hanging_Chain_wcwsfihdw_lod3
+[2022.05.20-08.33.58:187][893]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfihdw/S_Rusty_Hanging_Chain_wcwsfihdw_lod3.S_Rusty_Hanging_Chain_wcwsfihdw_lod3 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_75
+[2022.05.20-08.34.05:499][119]Cmd: DELETE
+[2022.05.20-08.34.05:499][119]Cmd: ACTOR DELETE
+[2022.05.20-08.34.05:505][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.20-08.34.05:532][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.05.20-08.34.05:537][119]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.05.20-08.34.13:709][376]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.13:709][376]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.13:709][376]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_76
+[2022.05.20-08.34.14:886][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.14:886][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.14:886][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_77
+[2022.05.20-08.34.30:380][867]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.30:380][867]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.30:380][867]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_78
+[2022.05.20-08.34.30:904][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.30:904][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.30:904][887]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_79
+[2022.05.20-08.34.34:426][986]Cmd: DELETE
+[2022.05.20-08.34.34:426][986]Cmd: ACTOR DELETE
+[2022.05.20-08.34.34:432][986]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.20-08.34.34:459][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.05.20-08.34.34:462][986]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2022.05.20-08.34.40:398][154]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.40:398][154]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.40:399][154]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_80
+[2022.05.20-08.34.43:328][284]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.43:329][284]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.20-08.34.43:329][284]LogActorFactory: Actor Factory spawned StaticMesh /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1 as actor: StaticMeshActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.StaticMeshActor_81
+[2022.05.20-08.34.56:560][743]Cmd: EDIT COPY
+[2022.05.20-08.34.56:859][752]Cmd: EDIT PASTE
+[2022.05.20-08.35.15:759][370]Cmd: EDIT COPY
+[2022.05.20-08.35.16:210][384]Cmd: EDIT PASTE
+[2022.05.20-08.35.20:518][507]Cmd: EDIT COPY
+[2022.05.20-08.35.20:760][514]Cmd: EDIT PASTE
+[2022.05.20-08.35.21:976][549]Cmd: EDIT COPY
+[2022.05.20-08.35.22:209][556]Cmd: EDIT PASTE
+[2022.05.20-08.35.23:287][586]Cmd: EDIT COPY
+[2022.05.20-08.35.23:511][592]Cmd: EDIT PASTE
+[2022.05.20-08.35.26:081][662]Cmd: EDIT COPY
+[2022.05.20-08.35.26:376][669]Cmd: EDIT PASTE
+[2022.05.20-08.35.29:032][741]Cmd: EDIT COPY
+[2022.05.20-08.35.29:216][748]Cmd: EDIT PASTE
+[2022.05.20-08.35.56:851][294]Cmd: SELECT NONE
+[2022.05.20-08.36.05:613][106]Cmd: TRANSACTION UNDO
+[2022.05.20-08.36.05:613][106]LogEditorTransaction: Undo Rotate Elements
+[2022.05.20-08.37.49:440][562]Cmd: SELECT NONE
+[2022.05.20-08.37.57:504][339]Cmd: SELECT NONE
+[2022.05.20-08.38.31:390][415]Cmd: SELECT NONE
+[2022.05.20-08.38.37:151][946]Cmd: EDIT COPY
+[2022.05.20-08.38.37:382][960]Cmd: EDIT PASTE
+[2022.05.20-08.38.48:087][929]Cmd: SELECT NONE
+[2022.05.20-08.38.54:913][570]Cmd: SELECT NONE
+[2022.05.20-08.39.08:523][238]Cmd: EDIT COPY
+[2022.05.20-08.39.08:771][244]Cmd: EDIT PASTE
+[2022.05.20-08.39.31:195][854]Cmd: EDIT COPY
+[2022.05.20-08.39.31:446][860]Cmd: EDIT PASTE
+[2022.05.20-08.39.37:733][ 40]Cmd: DELETE
+[2022.05.20-08.39.37:733][ 40]Cmd: ACTOR DELETE
+[2022.05.20-08.39.37:740][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.20-08.39.37:767][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.05.20-08.39.37:771][ 40]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.05.20-08.39.50:492][402]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.05.20-08.39.50:503][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-08.39.50:503][402]PIE: New page: PIE session: OldFactoryLevel (20. 5. 2022 12:39:50)
+[2022.05.20-08.39.50:503][402]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-08.39.50:550][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046907s)
+[2022.05.20-08.39.50:550][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OldFactoryLevel.OldFactoryLevel to /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel (0.046991s)
+[2022.05.20-08.39.50:550][402]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.20-08.39.50:551][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-08.39.50:551][402]LogAIModule: Creating AISystem for world OldFactoryLevel
+[2022.05.20-08.39.50:551][402]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2022.05.20-08.39.50:575][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.05.20-08.39.50:576][402]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.05.20-08.39.50:576][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-08.39.50:576][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-08.39.50:576][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-08.39.50:576][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-08.39.50:576][402]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.20-08.39.50:576][402]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.20-08.39.50:576][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.20-08.39.50:576][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-08.39.50:577][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-08.39.50:577][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-08.39.50:577][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-08.39.50:579][402]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.20-08.39.50:679][402]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2022.05.20-08.39.50:680][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-08.39.50:680][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-08.39.50:680][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-08.39.50:680][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.05.20-08.39.50:680][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.05.20-08.39.50:682][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.05.20-08.39.50:682][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.05.20-08.39.50:682][402]LogInit: FAudioDevice initialized.
+[2022.05.20-08.39.50:682][402]LogAudio: Display: Audio Device (ID: 18) registered with world 'OldFactoryLevel'.
+[2022.05.20-08.39.50:726][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-08.39.50:727][402]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.05.20-08.39.50:736][402]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel up for play (max tick rate 0) at 2022.05.20-10.39.50
+[2022.05.20-08.39.50:737][402]LogWorld: Bringing up level for play took: 0.009913
+[2022.05.20-08.39.50:739][402]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2022.05.20-08.39.50:743][402]PIE: Server logged in
+[2022.05.20-08.39.50:745][402]PIE: Play in editor total start time 0,242 seconds.
+[2022.05.20-08.40.33:689][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-08.40.33:689][518]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-08.40.33:690][518]LogSlate: Window 'PraxeVSB Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.20-08.40.33:734][518]LogWorld: UWorld::CleanupWorld for OldFactoryLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-08.40.33:736][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.40.33:772][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-08.40.33:776][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.40.33:800][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.05.20-08.40.33:801][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.05.20-08.40.33:810][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.05.20-08.40.33:853][519]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.05.20-08.41.01:434][346]Cmd: SELECT NONE
+[2022.05.20-08.41.04:369][626]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.05.20-08.41.04:380][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-08.41.04:380][626]PIE: New page: PIE session: OldFactoryLevel (20. 5. 2022 12:41:04)
+[2022.05.20-08.41.04:380][626]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-08.41.04:427][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046495s)
+[2022.05.20-08.41.04:427][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OldFactoryLevel.OldFactoryLevel to /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel (0.046580s)
+[2022.05.20-08.41.04:427][626]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.20-08.41.04:427][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-08.41.04:428][626]LogAIModule: Creating AISystem for world OldFactoryLevel
+[2022.05.20-08.41.04:428][626]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2022.05.20-08.41.04:452][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.05.20-08.41.04:454][626]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.05.20-08.41.04:454][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-08.41.04:454][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-08.41.04:454][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-08.41.04:454][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-08.41.04:454][626]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.20-08.41.04:454][626]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.20-08.41.04:454][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.20-08.41.04:454][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-08.41.04:455][626]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-08.41.04:455][626]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-08.41.04:455][626]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-08.41.04:457][626]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.20-08.41.04:574][626]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2022.05.20-08.41.04:575][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-08.41.04:575][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-08.41.04:575][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-08.41.04:575][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.05.20-08.41.04:575][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2022.05.20-08.41.04:577][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.05.20-08.41.04:577][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.05.20-08.41.04:577][626]LogInit: FAudioDevice initialized.
+[2022.05.20-08.41.04:577][626]LogAudio: Display: Audio Device (ID: 19) registered with world 'OldFactoryLevel'.
+[2022.05.20-08.41.04:608][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-08.41.04:608][626]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.05.20-08.41.04:617][626]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel up for play (max tick rate 0) at 2022.05.20-10.41.04
+[2022.05.20-08.41.04:617][626]LogWorld: Bringing up level for play took: 0.009114
+[2022.05.20-08.41.04:619][626]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2022.05.20-08.41.04:623][626]PIE: Server logged in
+[2022.05.20-08.41.04:625][626]PIE: Play in editor total start time 0,245 seconds.
+[2022.05.20-08.41.21:098][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-08.41.21:098][ 52]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-08.41.21:099][ 52]LogSlate: Window 'PraxeVSB Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.20-08.41.21:153][ 52]LogWorld: UWorld::CleanupWorld for OldFactoryLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-08.41.21:155][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.41.21:195][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-08.41.21:199][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.41.21:223][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.20-08.41.21:223][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.05.20-08.41.21:225][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.05.20-08.41.21:233][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.05.20-08.41.21:255][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.05.20-08.41.27:066][590]Cmd: EDIT COPY
+[2022.05.20-08.41.27:324][606]Cmd: EDIT PASTE
+[2022.05.20-08.41.36:714][444]Cmd: EDIT COPY
+[2022.05.20-08.41.36:941][459]Cmd: EDIT PASTE
+[2022.05.20-08.41.44:041][ 21]Cmd: SELECT NONE
+[2022.05.20-08.41.51:051][220]Cmd: SELECT NONE
+[2022.05.20-08.42.25:787][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.05.20-08.42.25:789][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OldFactoryLevel" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Saved/Autosaves/Game/Maps/OldFactoryLevel_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.20-08.42.25:858][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/OldFactoryLevel_Auto4
+[2022.05.20-08.42.25:858][279]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/OldFactoryLevel_Auto412CFB8E147B1F49DE9C55094C90A4D73.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/Autosaves/Game/Maps/OldFactoryLevel_Auto4.umap'
+[2022.05.20-08.42.25:861][279]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/OldFactoryLevel' took 0.097
+[2022.05.20-08.42.25:861][279]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
+[2022.05.20-08.42.25:862][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat] ([1] browsable assets)...
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: ================================================
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Total job queries 1569, among them cache hits 913 (58.19%)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Tracking 582 distinct input hashes that result in 113 distinct outputs (19.42%)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: RAM used: 0.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Shaders Compiled: 236
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Jobs assigned 582, completed 582 (100.00%)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Average time worker was idle: 19.44 s
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Time job spent in pending queue: average 3.29 s, longest 29.27 s
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Job execution time: average 1.57 s, max 11.20 s
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Job life time (pending + execution): average 4.86 s, max 30.38
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 234.85 s
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Jobs were issued in 495 batches (only local compilation was used), average 1.18 jobs/batch
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Average processing rate: 2.48 jobs/sec
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Effective parallelization: 1.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   19 times, average 0.75 sec, max 1.10 sec, min 0.59 sec)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled  121 times, average 0.74 sec, max 1.03 sec, min 0.58 sec)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled   19 times, average 0.74 sec, max 1.02 sec, min 0.57 sec)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   54 times, average 0.68 sec, max 1.11 sec, min 0.54 sec)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   19 times, average 0.67 sec, max 0.72 sec, min 0.63 sec)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.20% of total time (compiled  121 times, average 0.74 sec, max 1.03 sec, min 0.58 sec)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.29% of total time (compiled  121 times, average 0.65 sec, max 1.15 sec, min 0.46 sec)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.94% of total time (compiled   54 times, average 0.68 sec, max 1.11 sec, min 0.54 sec)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.23% of total time (compiled   54 times, average 0.29 sec, max 0.51 sec, min 0.23 sec)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.83% of total time (compiled   19 times, average 0.75 sec, max 1.10 sec, min 0.59 sec)
+[2022.05.20-08.42.25:894][279]LogShaderCompilers: Display: ================================================
+[2022.05.20-08.42.25:911][279]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat.warehouse_box2_mat]
+[2022.05.20-08.42.25:911][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat]
+[2022.05.20-08.42.25:916][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat_Auto4
+[2022.05.20-08.42.25:917][279]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box2_mat_Auto4354FDDD645F4DB2E8A7BED8C36AB97B2.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/Autosaves/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat_Auto4.uasset'
+[2022.05.20-08.42.25:917][279]LogFileHelpers: Auto-saving content packages took 0.056
+[2022.05.20-08.43.02:028][191]Cmd: SELECT NONE
+[2022.05.20-08.43.08:915][706]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2022.05.20-08.43.08:915][706]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2022.05.20-08.43.08:915][706]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2022.05.20-08.43.08:915][706]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2022.05.20-08.43.08:915][706]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2022.05.20-08.43.08:915][706]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2022.05.20-08.43.08:916][706]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2022.05.20-08.43.08:916][706]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2022.05.20-08.43.08:916][706]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2022.05.20-08.43.08:916][706]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2022.05.20-08.43.08:917][706]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.05.20-08.43.09:237][712]LogContentStreaming: Texture pool size now 600 MB
+[2022.05.20-08.43.16:196][ 73]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2022.05.20-08.43.16:196][ 73]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2022.05.20-08.43.16:196][ 73]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.05.20-08.43.16:196][ 73]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2022.05.20-08.43.16:197][ 73]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2022.05.20-08.43.16:197][ 73]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2022.05.20-08.43.16:197][ 73]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2022.05.20-08.43.16:197][ 73]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2022.05.20-08.43.16:197][ 73]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2022.05.20-08.43.16:197][ 73]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2022.05.20-08.43.16:197][ 73]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.05.20-08.43.17:009][ 76]LogContentStreaming: Texture pool size now 800 MB
+[2022.05.20-08.43.18:193][144]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-08.43.22:964][342]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.20-08.43.22:964][342]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.20-08.43.22:964][342]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.20-08.43.22:964][342]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.20-08.43.22:964][342]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.20-08.43.22:964][342]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.20-08.43.22:964][342]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.20-08.43.22:964][342]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.20-08.43.22:964][342]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.20-08.43.22:964][342]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.20-08.43.22:964][342]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.20-08.43.22:969][342]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.20-08.43.25:321][440]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-08.43.48:314][442]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.20-08.43.50:139][519]LogTurnkeySupport: Display: Adding device menu item for PCFEIB208-091
+[2022.05.20-08.43.50:139][519]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/pav0531/UE5 Projects/PraxeVSB/PraxeVSB.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/pav0531/UE5 Projects/PraxeVSB/Intermediate/TurnkeyReport_1.log" -log="D:/pav0531/UE5 Projects/PraxeVSB/Intermediate/TurnkeyLog_1.log" -project="D:/pav0531/UE5 Projects/PraxeVSB/PraxeVSB.uproject"  -Device=Win64@PCFEIB208-091'
+[2022.05.20-08.43.50:139][519]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/pav0531/UE5 Projects/PraxeVSB/PraxeVSB.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/pav0531/UE5 Projects/PraxeVSB/Intermediate/TurnkeyReport_1.log" -log="D:/pav0531/UE5 Projects/PraxeVSB/Intermediate/TurnkeyLog_1.log" -project="D:/pav0531/UE5 Projects/PraxeVSB/PraxeVSB.uproject"  -Device=Win64@PCFEIB208-091" -nocompile ]
+[2022.05.20-08.43.53:406][860]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.05.20-08.43.53:406][860]LogTurnkeySupport: Turnkey Device: Win64@PCFEIB208-091: (Name=PCFEIB208-091, Status=Valid, Installed=10.0.19043.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.05.20-08.43.56:244][184]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2022.05.20-08.43.56:244][184]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2022.05.20-08.43.56:244][184]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2022.05.20-08.43.56:244][184]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2022.05.20-08.43.56:244][184]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2022.05.20-08.43.56:244][184]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2022.05.20-08.43.56:244][184]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2022.05.20-08.43.56:244][184]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2022.05.20-08.43.56:244][184]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2022.05.20-08.43.56:244][184]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2022.05.20-08.43.56:244][184]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.05.20-08.43.56:254][184]LogContentStreaming: Texture pool size now 400 MB
+[2022.05.20-08.43.58:004][383]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2022.05.20-08.44.00:094][627]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2022.05.20-08.46.55:004][541]Cmd: EDIT COPY
+[2022.05.20-08.46.55:235][549]Cmd: EDIT PASTE
+[2022.05.20-08.47.31:891][722]Cmd: SELECT NONE
+[2022.05.20-08.47.48:665][214]Cmd: EDIT COPY
+[2022.05.20-08.47.48:874][220]Cmd: EDIT PASTE
+[2022.05.20-08.47.48:876][220]LogWindows: Warning: OpenClipboard failed with error code 5
+[2022.05.20-08.47.52:937][335]Cmd: TRANSACTION UNDO
+[2022.05.20-08.47.52:937][335]LogEditorTransaction: Undo Paste
+[2022.05.20-08.47.59:726][843]Cmd: SELECT NONE
+[2022.05.20-08.48.02:453][923]Cmd: EDIT COPY
+[2022.05.20-08.48.02:700][930]Cmd: EDIT PASTE
+[2022.05.20-08.48.52:587][437]Cmd: SELECT NONE
+[2022.05.20-08.48.56:938][564]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.05.20-08.48.56:960][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-08.48.56:960][564]PIE: New page: PIE session: OldFactoryLevel (20. 5. 2022 12:48:56)
+[2022.05.20-08.48.56:960][564]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-08.48.57:016][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055039s)
+[2022.05.20-08.48.57:016][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OldFactoryLevel.OldFactoryLevel to /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel (0.055126s)
+[2022.05.20-08.48.57:016][564]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.20-08.48.57:016][564]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-08.48.57:016][564]LogAIModule: Creating AISystem for world OldFactoryLevel
+[2022.05.20-08.48.57:017][564]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2022.05.20-08.48.57:051][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.05.20-08.48.57:058][564]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.05.20-08.48.57:059][564]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-08.48.57:059][564]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-08.48.57:059][564]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-08.48.57:059][564]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-08.48.57:059][564]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.20-08.48.57:059][564]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.20-08.48.57:059][564]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.20-08.48.57:059][564]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-08.48.57:059][564]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-08.48.57:059][564]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-08.48.57:059][564]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-08.48.57:061][564]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.20-08.48.57:170][564]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2022.05.20-08.48.57:170][564]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-08.48.57:170][564]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-08.48.57:170][564]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-08.48.57:171][564]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2022.05.20-08.48.57:171][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2022.05.20-08.48.57:173][564]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2022.05.20-08.48.57:173][564]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2022.05.20-08.48.57:173][564]LogInit: FAudioDevice initialized.
+[2022.05.20-08.48.57:173][564]LogAudio: Display: Audio Device (ID: 20) registered with world 'OldFactoryLevel'.
+[2022.05.20-08.48.57:234][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-08.48.57:235][564]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.05.20-08.48.57:255][564]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel up for play (max tick rate 0) at 2022.05.20-10.48.57
+[2022.05.20-08.48.57:255][564]LogWorld: Bringing up level for play took: 0.019077
+[2022.05.20-08.48.57:257][564]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2022.05.20-08.48.57:262][564]PIE: Server logged in
+[2022.05.20-08.48.57:263][564]PIE: Play in editor total start time 0,304 seconds.
+[2022.05.20-08.50.52:225][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-08.50.52:225][600]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-08.50.52:228][600]LogSlate: Window 'PraxeVSB Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.20-08.50.52:261][600]LogWorld: UWorld::CleanupWorld for OldFactoryLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-08.50.52:262][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.50.52:301][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-08.50.52:305][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.50.52:330][600]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.20-08.50.52:331][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.05.20-08.50.52:332][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.05.20-08.50.52:342][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.05.20-08.50.52:365][601]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.05.20-08.50.59:284][790]Cmd: SELECT NONE
+[2022.05.20-08.51.32:853][671]Cmd: EDIT COPY
+[2022.05.20-08.51.33:035][675]Cmd: EDIT PASTE
+[2022.05.20-08.52.00:519][370]Cmd: EDIT COPY
+[2022.05.20-08.52.00:718][375]Cmd: EDIT PASTE
+[2022.05.20-08.52.22:328][  5]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.05.20-08.52.22:343][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-08.52.22:343][  5]PIE: New page: PIE session: OldFactoryLevel (20. 5. 2022 12:52:22)
+[2022.05.20-08.52.22:343][  5]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-08.52.22:395][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051957s)
+[2022.05.20-08.52.22:395][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OldFactoryLevel.OldFactoryLevel to /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel (0.052042s)
+[2022.05.20-08.52.22:395][  5]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.20-08.52.22:395][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-08.52.22:396][  5]LogAIModule: Creating AISystem for world OldFactoryLevel
+[2022.05.20-08.52.22:396][  5]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2022.05.20-08.52.22:420][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.05.20-08.52.22:422][  5]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.05.20-08.52.22:422][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-08.52.22:422][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-08.52.22:422][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-08.52.22:423][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-08.52.22:423][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.20-08.52.22:423][  5]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.20-08.52.22:423][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.20-08.52.22:423][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-08.52.22:423][  5]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-08.52.22:423][  5]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-08.52.22:423][  5]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-08.52.22:425][  5]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.20-08.52.22:523][  5]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2022.05.20-08.52.22:523][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-08.52.22:523][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-08.52.22:523][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-08.52.22:524][  5]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2022.05.20-08.52.22:524][  5]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2022.05.20-08.52.22:526][  5]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2022.05.20-08.52.22:526][  5]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2022.05.20-08.52.22:526][  5]LogInit: FAudioDevice initialized.
+[2022.05.20-08.52.22:526][  5]LogAudio: Display: Audio Device (ID: 21) registered with world 'OldFactoryLevel'.
+[2022.05.20-08.52.22:591][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-08.52.22:591][  5]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.05.20-08.52.22:601][  5]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel up for play (max tick rate 0) at 2022.05.20-10.52.22
+[2022.05.20-08.52.22:601][  5]LogWorld: Bringing up level for play took: 0.010154
+[2022.05.20-08.52.22:603][  5]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2022.05.20-08.52.22:608][  5]PIE: Server logged in
+[2022.05.20-08.52.22:610][  5]PIE: Play in editor total start time 0,267 seconds.
+[2022.05.20-08.56.16:683][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-08.56.16:683][308]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-08.56.16:686][308]LogSlate: Window 'PraxeVSB Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.20-08.56.16:725][308]LogWorld: UWorld::CleanupWorld for OldFactoryLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-08.56.16:726][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.56.16:764][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-08.56.16:769][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-08.56.16:794][308]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.20-08.56.16:795][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.05.20-08.56.16:796][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.05.20-08.56.16:805][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.05.20-08.56.16:832][309]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.05.20-08.56.52:389][301]Cmd: SELECT NONE
+[2022.05.20-08.57.31:789][796]LogCEFBrowser: CEF GPU acceleration enabled
+[2022.05.20-08.58.51:174][680]LogSlate: Window 'Login' being destroyed
+[2022.05.20-08.59.54:923][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.05.20-08.59.54:928][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OldFactoryLevel" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Saved/Autosaves/Game/Maps/OldFactoryLevel_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.20-08.59.55:001][636]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/OldFactoryLevel_Auto5
+[2022.05.20-08.59.55:001][636]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/OldFactoryLevel_Auto51558C7C146A6D4CB43A4D4AD41DAE84B.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/Autosaves/Game/Maps/OldFactoryLevel_Auto5.umap'
+[2022.05.20-08.59.55:006][636]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/OldFactoryLevel' took 0.213
+[2022.05.20-08.59.55:006][636]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.213
+[2022.05.20-09.01.02:455][470]LogTexture: Display: Building textures: /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/T_Torn_Asphalt_Patch_vb1gbcjew_2K_D.T_Torn_Asphalt_Patch_vb1gbcjew_2K_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.20-09.01.02:457][470]LogTexture: Display: Building textures: /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/T_Torn_Asphalt_Patch_vb1gbcjew_2K_N.T_Torn_Asphalt_Patch_vb1gbcjew_2K_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.20-09.01.03:062][483]LogTexture: Display: Building textures: /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/T_TornAsphaltPatch_vb1gbcjew_2K_DpRA.T_TornAsphaltPatch_vb1gbcjew_2K_DpRA (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.20-09.01.07:220][584]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/MI_Torn_Asphalt_Patch_vb1gbcjew_2K.MI_Torn_Asphalt_Patch_vb1gbcjew_2K
+[2022.05.20-09.01.07:220][584]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/MI_Torn_Asphalt_Patch_vb1gbcjew_2K.MI_Torn_Asphalt_Patch_vb1gbcjew_2K
+[2022.05.20-09.01.07:222][584]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/MI_Torn_Asphalt_Patch_vb1gbcjew_2K.MI_Torn_Asphalt_Patch_vb1gbcjew_2K as actor: DecalActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.DecalActor_10
+[2022.05.20-09.01.07:222][584]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/MI_Torn_Asphalt_Patch_vb1gbcjew_2K.MI_Torn_Asphalt_Patch_vb1gbcjew_2K as actor: DecalActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.DecalActor_10
+[2022.05.20-09.01.08:482][626]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/MI_Torn_Asphalt_Patch_vb1gbcjew_2K.MI_Torn_Asphalt_Patch_vb1gbcjew_2K
+[2022.05.20-09.01.08:482][626]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/MI_Torn_Asphalt_Patch_vb1gbcjew_2K.MI_Torn_Asphalt_Patch_vb1gbcjew_2K
+[2022.05.20-09.01.08:483][626]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/MI_Torn_Asphalt_Patch_vb1gbcjew_2K.MI_Torn_Asphalt_Patch_vb1gbcjew_2K as actor: DecalActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.DecalActor_11
+[2022.05.20-09.01.08:483][626]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/MI_Torn_Asphalt_Patch_vb1gbcjew_2K.MI_Torn_Asphalt_Patch_vb1gbcjew_2K as actor: DecalActor /Game/Maps/OldFactoryLevel.OldFactoryLevel:PersistentLevel.DecalActor_11
+[2022.05.20-09.02.43:126][274]Cmd: DELETE
+[2022.05.20-09.02.43:126][274]Cmd: ACTOR DELETE
+[2022.05.20-09.02.43:137][274]LogEditorActor: Deleted Actor: DecalActor
+[2022.05.20-09.02.43:222][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.05.20-09.02.43:231][274]LogEditorActor: Deleted 1 Actors (0.105 secs)
+[2022.05.20-09.02.45:690][326]Cmd: TRANSACTION UNDO
+[2022.05.20-09.02.45:690][326]LogEditorTransaction: Undo Delete Elements
+[2022.05.20-09.03.48:721][285]LogDerivedDataCache: C:/Users/pav0531/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.541 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.20-09.04.45:235][967]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.05.20-09.04.45:249][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.20-09.04.45:250][967]PIE: New page: PIE session: OldFactoryLevel (20. 5. 2022 13:04:45)
+[2022.05.20-09.04.45:250][967]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-09.04.45:303][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053286s)
+[2022.05.20-09.04.45:303][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OldFactoryLevel.OldFactoryLevel to /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel (0.053374s)
+[2022.05.20-09.04.45:303][967]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.20-09.04.45:303][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.20-09.04.45:304][967]LogAIModule: Creating AISystem for world OldFactoryLevel
+[2022.05.20-09.04.45:304][967]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2022.05.20-09.04.45:326][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.05.20-09.04.45:330][967]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.05.20-09.04.45:330][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.20-09.04.45:330][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.20-09.04.45:330][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.20-09.04.45:330][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.20-09.04.45:330][967]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.20-09.04.45:330][967]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.20-09.04.45:330][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.20-09.04.45:330][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.20-09.04.45:331][967]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.20-09.04.45:331][967]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.20-09.04.45:331][967]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.20-09.04.45:333][967]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.20-09.04.45:440][967]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2022.05.20-09.04.45:440][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.20-09.04.45:440][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.20-09.04.45:440][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.20-09.04.45:441][967]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2022.05.20-09.04.45:441][967]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2022.05.20-09.04.45:443][967]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2022.05.20-09.04.45:443][967]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2022.05.20-09.04.45:443][967]LogInit: FAudioDevice initialized.
+[2022.05.20-09.04.45:443][967]LogAudio: Display: Audio Device (ID: 22) registered with world 'OldFactoryLevel'.
+[2022.05.20-09.04.45:487][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-09.04.45:487][967]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.05.20-09.04.45:497][967]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OldFactoryLevel.OldFactoryLevel up for play (max tick rate 0) at 2022.05.20-11.04.45
+[2022.05.20-09.04.45:497][967]LogWorld: Bringing up level for play took: 0.009967
+[2022.05.20-09.04.45:499][967]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2022.05.20-09.04.45:503][967]PIE: Server logged in
+[2022.05.20-09.04.45:505][967]PIE: Play in editor total start time 0,256 seconds.
+[2022.05.20-10.03.48:543][839]LogDerivedDataCache: C:/Users/pav0531/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.364 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.20-10.12.44:932][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.20-10.12.44:932][696]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_OldFactoryLevel
+[2022.05.20-10.12.44:933][696]LogSlate: Window 'PraxeVSB Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.05.20-10.12.44:974][696]LogWorld: UWorld::CleanupWorld for OldFactoryLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-10.12.44:976][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-10.12.45:017][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.20-10.12.45:021][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.20-10.12.45:047][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.05.20-10.12.45:049][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.05.20-10.12.45:060][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.05.20-10.12.45:089][697]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.05.20-10.17.54:902][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.05.20-10.17.54:905][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OldFactoryLevel" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Saved/Autosaves/Game/Maps/OldFactoryLevel_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.20-10.17.54:980][641]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/OldFactoryLevel_Auto6
+[2022.05.20-10.17.54:981][641]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/OldFactoryLevel_Auto6FC460CD94C8C75649996C0B3D3EE564B.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/Autosaves/Game/Maps/OldFactoryLevel_Auto6.umap'
+[2022.05.20-10.17.54:986][641]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/OldFactoryLevel' took 0.111
+[2022.05.20-10.17.54:986][641]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.111
+[2022.05.20-10.18.27:673][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.05.20-10.18.28:643][777]LogSlate: Window 'Save Content' being destroyed
+[2022.05.20-10.18.28:702][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OldFactoryLevel" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.20-10.18.28:727][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.20-10.18.28:802][777]LogSavePackage: Moving output files for package: /Game/Maps/OldFactoryLevel
+[2022.05.20-10.18.28:803][777]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/OldFactoryLevel183D8F7B49E4D3C935F9F1B4B8027F05.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap'
+[2022.05.20-10.18.28:983][777]LogFileHelpers: No new changes to save!
+[2022.05.20-10.18.28:983][777]LogFileHelpers: Saving map 'OldFactoryLevel' took 0.283
+[2022.05.20-10.18.28:984][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_mat.uasset" SILENT=true
+[2022.05.20-10.18.28:989][777]LogSavePackage: Moving output files for package: /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat
+[2022.05.20-10.18.28:989][777]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/warehouse_box2_mat591D7CF24E7BD92562FF2689CD235D87.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Models/Boxes/Boxes/Box_2/warehouse_box2_mat.uasset'
+[2022.05.20-10.18.29:002][777]LogStall: Shutdown...
+[2022.05.20-10.18.29:007][777]LogStall: Shutdown complete.
+[2022.05.20-10.18.29:061][777]LogSlate: Window 'Bridge' being destroyed
+[2022.05.20-10.18.29:066][777]LogSlate: Window 'Content Browser' being destroyed
+[2022.05.20-10.18.29:104][777]LogSlate: Window 'PraxeVSB - Unreal Editor' being destroyed
+[2022.05.20-10.18.29:394][777]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.20-10.18.29:394][777]LogContentValidation: Display: Validating World /Game/Maps/OldFactoryLevel.OldFactoryLevel
+[2022.05.20-10.18.29:394][777]LogContentValidation: Display: Validating Material /Game/Models/Boxes/Boxes/Box_2/warehouse_box2_mat.warehouse_box2_mat
+[2022.05.20-10.18.29:405][778]Cmd: QUIT_EDITOR
+[2022.05.20-10.18.29:405][778]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.20-10.18.29:409][778]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.20-10.18.29:409][778]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.05.20-10.18.29:409][778]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.05.20-10.18.30:388][778]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.20-10.18.30:388][778]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.20-10.18.30:388][778]LogAudio: Display: Audio Device unregistered from world 'OldFactoryLevel'.
+[2022.05.20-10.18.30:389][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.05.20-10.18.30:397][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.05.20-10.18.30:417][778]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.20-10.18.30:428][778]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.05.20-10.18.30:428][778]LogExit: Preparing to exit.
+[2022.05.20-10.18.30:429][778]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/37D9DBE244521D37BDBBE58621DC563D.json took   1.14ms
+[2022.05.20-10.18.31:730][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.05.20-10.18.31:745][778]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.31:745][778]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.31:749][778]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.31:749][778]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.31:749][778]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.31:749][778]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.31:749][778]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.31:750][778]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.31:750][778]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.31:750][778]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.31:750][778]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.05.20-10.18.32:822][778]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-10.18.32:824][778]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-10.18.32:825][778]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-10.18.32:827][778]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-10.18.32:829][778]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-10.18.32:830][778]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-10.18.32:832][778]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-10.18.32:842][778]LogWorld: UWorld::CleanupWorld for OldFactoryLevel, bSessionEnded=true, bCleanupResources=true
+[2022.05.20-10.18.32:882][778]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.20-10.18.32:915][778]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.05.20-10.18.32:915][778]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.05.20-10.18.32:930][778]LogExit: Editor shut down
+[2022.05.20-10.18.32:934][778]LogExit: Transaction tracking system shut down
+[2022.05.20-10.18.33:444][778]LogExit: Object subsystem successfully closed.
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: ================================================
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Total job queries 1569, among them cache hits 913 (58.19%)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Tracking 582 distinct input hashes that result in 113 distinct outputs (19.42%)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: RAM used: 0.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Shaders Compiled: 236
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Jobs assigned 582, completed 582 (100.00%)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Average time worker was idle: 19.44 s
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Time job spent in pending queue: average 3.29 s, longest 29.27 s
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Job execution time: average 1.57 s, max 11.20 s
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Job life time (pending + execution): average 4.86 s, max 30.38
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 234.85 s
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Jobs were issued in 495 batches (only local compilation was used), average 1.18 jobs/batch
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Average processing rate: 2.48 jobs/sec
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Effective parallelization: 1.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   19 times, average 0.75 sec, max 1.10 sec, min 0.59 sec)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled  121 times, average 0.74 sec, max 1.03 sec, min 0.58 sec)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled   19 times, average 0.74 sec, max 1.02 sec, min 0.57 sec)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   54 times, average 0.68 sec, max 1.11 sec, min 0.54 sec)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   19 times, average 0.67 sec, max 0.72 sec, min 0.63 sec)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.20% of total time (compiled  121 times, average 0.74 sec, max 1.03 sec, min 0.58 sec)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.29% of total time (compiled  121 times, average 0.65 sec, max 1.15 sec, min 0.46 sec)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.94% of total time (compiled   54 times, average 0.68 sec, max 1.11 sec, min 0.54 sec)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.23% of total time (compiled   54 times, average 0.29 sec, max 0.51 sec, min 0.23 sec)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.83% of total time (compiled   19 times, average 0.75 sec, max 1.10 sec, min 0.59 sec)
+[2022.05.20-10.18.33:457][778]LogShaderCompilers: Display: ================================================
+[2022.05.20-10.18.33:495][778]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.20-10.18.33:545][778]LogModuleManager: Shutting down and abandoning module WebBrowser (920)
+[2022.05.20-10.18.33:833][778]LogModuleManager: Shutting down and abandoning module BlueprintGraph (918)
+[2022.05.20-10.18.33:833][778]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (916)
+[2022.05.20-10.18.33:833][778]LogModuleManager: Shutting down and abandoning module Voice (914)
+[2022.05.20-10.18.33:833][778]LogModuleManager: Shutting down and abandoning module TextureEditor (912)
+[2022.05.20-10.18.33:833][778]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (910)
+[2022.05.20-10.18.33:834][778]LogModuleManager: Shutting down and abandoning module SubobjectEditor (908)
+[2022.05.20-10.18.33:834][778]LogModuleManager: Shutting down and abandoning module SceneOutliner (906)
+[2022.05.20-10.18.33:834][778]LogModuleManager: Shutting down and abandoning module AddContentDialog (904)
+[2022.05.20-10.18.33:835][778]LogModuleManager: Shutting down and abandoning module WidgetCarousel (903)
+[2022.05.20-10.18.33:835][778]LogModuleManager: Shutting down and abandoning module StatusBar (900)
+[2022.05.20-10.18.33:835][778]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (898)
+[2022.05.20-10.18.33:835][778]LogModuleManager: Shutting down and abandoning module StatsViewer (896)
+[2022.05.20-10.18.33:835][778]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (894)
+[2022.05.20-10.18.33:835][778]LogModuleManager: Shutting down and abandoning module AutomationWorker (892)
+[2022.05.20-10.18.33:835][778]LogModuleManager: Shutting down and abandoning module PlanarCut (890)
+[2022.05.20-10.18.33:835][778]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (888)
+[2022.05.20-10.18.33:835][778]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (886)
+[2022.05.20-10.18.33:836][778]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (884)
+[2022.05.20-10.18.33:836][778]LogModuleManager: Shutting down and abandoning module TakesCore (882)
+[2022.05.20-10.18.33:837][778]LogModuleManager: Shutting down and abandoning module ConcertTakeRecorder (880)
+[2022.05.20-10.18.33:837][778]LogModuleManager: Shutting down and abandoning module TakeRecorder (879)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module GooglePADEditor (876)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (874)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (872)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (870)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (868)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (866)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (864)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (862)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (860)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (858)
+[2022.05.20-10.18.33:838][778]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (856)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module WebMMedia (854)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (852)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (850)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module SequenceRecorder (849)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (846)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (844)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (842)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (840)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (838)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (836)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (834)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module CharacterAI (832)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module TextureAlignMode (830)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module BspMode (828)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module GeometryMode (826)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (824)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module IKRigEditor (822)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module ControlRigEditor (820)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module AnimationEditor (819)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (816)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module SmartSnapping (814)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module SessionServices (812)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module MeshPaint (810)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (808)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module PlacementMode (807)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module FoliageEdit (804)
+[2022.05.20-10.18.33:839][778]LogModuleManager: Shutting down and abandoning module LandscapeEditor (802)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (800)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module ActorPickerMode (798)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module ViewportSnapping (796)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module EditorWidgets (794)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module ViewportInteraction (792)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module ClothPainter (790)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (789)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module LogVisualizer (786)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module IntroTutorials (784)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (782)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (780)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (779)
+[2022.05.20-10.18.33:840][778]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (777)
+[2022.05.20-10.18.34:294][778]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (774)
+[2022.05.20-10.18.34:294][778]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (772)
+[2022.05.20-10.18.34:294][778]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (770)
+[2022.05.20-10.18.34:294][778]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (768)
+[2022.05.20-10.18.34:294][778]LogModuleManager: Shutting down and abandoning module CSVtoSVG (766)
+[2022.05.20-10.18.34:294][778]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (764)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module EditorConfig (762)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (760)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module EditorFramework (758)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (756)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module TraceInsights (754)
+[2022.05.20-10.18.34:295][778]MemoryProfiler: Shutdown
+[2022.05.20-10.18.34:295][778]NetworkingProfiler: Shutdown
+[2022.05.20-10.18.34:295][778]LoadingProfiler: Shutdown
+[2022.05.20-10.18.34:295][778]TimingProfiler: Shutdown
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module TraceServices (753)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (750)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (749)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module InputBindingEditor (746)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module MergeActors (744)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (742)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module LocalizationService (741)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module HardwareTargeting (738)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (736)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module UndoHistory (734)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module XmlParser (732)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module Blutility (730)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (728)
+[2022.05.20-10.18.34:295][778]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (727)
+[2022.05.20-10.18.34:296][778]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (724)
+[2022.05.20-10.18.34:296][778]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (723)
+[2022.05.20-10.18.34:296][778]LogModuleManager: Shutting down and abandoning module SettingsEditor (720)
+[2022.05.20-10.18.34:296][778]LogModuleManager: Shutting down and abandoning module ProjectLauncher (718)
+[2022.05.20-10.18.34:296][778]LogModuleManager: Shutting down and abandoning module SessionFrontend (716)
+[2022.05.20-10.18.34:296][778]LogModuleManager: Shutting down and abandoning module ProfilerClient (714)
+[2022.05.20-10.18.34:296][778]LogModuleManager: Shutting down and abandoning module DeviceManager (712)
+[2022.05.20-10.18.34:296][778]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (711)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module AutomationController (708)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module AutomationWindow (706)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module Layers (704)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (702)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module DetailCustomizations (700)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module PackagesDialog (698)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (696)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module Persona (694)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (693)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module AnimGraph (691)
+[2022.05.20-10.18.34:307][778]LogModuleManager: Shutting down and abandoning module Kismet (688)
+[2022.05.20-10.18.34:313][778]LogModuleManager: Shutting down and abandoning module KismetWidgets (687)
+[2022.05.20-10.18.34:313][778]LogModuleManager: Shutting down and abandoning module GraphEditor (684)
+[2022.05.20-10.18.34:313][778]LogModuleManager: Shutting down and abandoning module StructViewer (682)
+[2022.05.20-10.18.34:313][778]LogModuleManager: Shutting down and abandoning module ClassViewer (680)
+[2022.05.20-10.18.34:317][778]LogModuleManager: Shutting down and abandoning module NaniteTools (678)
+[2022.05.20-10.18.34:317][778]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (676)
+[2022.05.20-10.18.34:317][778]LogModuleManager: Shutting down and abandoning module SourceControlWindows (674)
+[2022.05.20-10.18.34:317][778]LogModuleManager: Shutting down and abandoning module OutputLog (672)
+[2022.05.20-10.18.34:322][778]LogModuleManager: Shutting down and abandoning module Documentation (670)
+[2022.05.20-10.18.34:323][778]LogModuleManager: Shutting down and abandoning module LiveCoding (668)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (666)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module MovieScene (664)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (662)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module LauncherPlatform (660)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module AnalyticsET (658)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module PortalServices (656)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module PortalRpc (654)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module MessagingRpc (652)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (650)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module AudioMixer (649)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module AudioMixerCore (648)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module AIModule (644)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module GameplayDebugger (643)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module AITestSuite (641)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module NavigationSystem (639)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (636)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (634)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module TypedElementFramework (632)
+[2022.05.20-10.18.34:336][778]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (630)
+[2022.05.20-10.18.34:346][778]LogModuleManager: Shutting down and abandoning module ProfilerService (628)
+[2022.05.20-10.18.34:551][778]LogModuleManager: Shutting down and abandoning module TaskGraph (626)
+[2022.05.20-10.18.34:551][778]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (624)
+[2022.05.20-10.18.34:551][778]LogModuleManager: Shutting down and abandoning module MegascansPlugin (622)
+[2022.05.20-10.18.34:765][778]LogModuleManager: Shutting down and abandoning module Bridge (620)
+[2022.05.20-10.18.34:766][778]LogModuleManager: Shutting down and abandoning module ConcertSyncUI (618)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (616)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (614)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module InterchangePipelines (612)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module InterchangeExport (610)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module InterchangeMessages (608)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module InterchangeImport (606)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module InterchangeNodes (604)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (602)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (600)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module InterchangeEditor (598)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (592)
+[2022.05.20-10.18.34:767][778]LogModuleManager: Shutting down and abandoning module CollectionManager (591)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module MultiUserClientLibrary (588)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module MultiUserClient (586)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ConcertSyncClient (585)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module SynthesisEditor (582)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module Synthesis (580)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ResonanceAudio (578)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (576)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (574)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module TakeSequencer (572)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module TakeMovieScene (570)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (568)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (566)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ModelingOperators (564)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (562)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ModelingComponents (560)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (558)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module MeshModelingTools (556)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (554)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module GooglePAD (552)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module DynamicMesh (550)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (548)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (546)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (544)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (542)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (540)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module CableComponent (538)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module AudioCapture (536)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (535)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module AssetTags (532)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (530)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (528)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module AppleImageUtils (526)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module AndroidPermission (524)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (522)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (520)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module TemplateSequence (516)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (514)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module SequencerScripting (512)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module MediaCompositing (510)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module ImgMedia (508)
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module AutoSizeComments (506)
+[2022.05.20-10.18.34:768][778]LogAutoSizeComments: Shutdown AutoSizeComments
+[2022.05.20-10.18.34:768][778]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (504)
+[2022.05.20-10.18.34:768][778]LogOpenImageDenoise: OIDN shutting down
+[2022.05.20-10.18.34:769][778]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (502)
+[2022.05.20-10.18.34:769][778]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (500)
+[2022.05.20-10.18.34:769][778]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (498)
+[2022.05.20-10.18.34:769][778]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (496)
+[2022.05.20-10.18.34:769][778]LogModuleManager: Shutting down and abandoning module MeshLODToolset (494)
+[2022.05.20-10.18.34:769][778]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (492)
+[2022.05.20-10.18.34:770][778]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (490)
+[2022.05.20-10.18.34:770][778]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (488)
+[2022.05.20-10.18.34:770][778]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (486)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (485)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (482)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module AlembicImporter (480)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module AlembicLibrary (479)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module GeometryCache (478)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (477)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (472)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (470)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module ChaosNiagara (468)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module FractureEditor (466)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (464)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module BackChannel (462)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (460)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module AutomationUtils (458)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (456)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (454)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module EditorDebugTools (452)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (450)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module StylusInput (448)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (446)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (444)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module PluginBrowser (442)
+[2022.05.20-10.18.34:771][778]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (440)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (438)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (436)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (434)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (432)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (430)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module UObjectPlugin (428)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module CurveEditorTools (426)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (424)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module CryptoKeys (422)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (420)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (418)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (416)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module PluginUtils (414)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (412)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module GitSourceControl (410)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (408)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (406)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (404)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module ControlRigSpline (402)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (400)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (398)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (396)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (394)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module Paper2DEditor (392)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (390)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (388)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module ConcertSyncCore (386)
+[2022.05.20-10.18.34:773][778]LogModuleManager: Shutting down and abandoning module SQLiteCore (384)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module Concert (382)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module ConcertTransport (381)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module SignificanceManager (376)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (374)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module ActorSequence (362)
+[2022.05.20-10.18.34:774][778]LogModuleManager: Shutting down and abandoning module UdpMessaging (360)
