@@ -1,0 +1,1274 @@
+﻿Log file open, 05/23/22 09:16:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=11532)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PraxeVSB
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-19764885"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-19764885+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/PraxeVSB.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="fb95ef884b1ff91f3fd64e8ec5fc36d1"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.265947
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-BE1166444456A635589EE78EAF2F8BA3
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AutoSizeComments
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin MultiUserTakes
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin MultiUserClient
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
+LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/MultiUserTakes/Content/' mounted to '/MultiUserTakes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content/' mounted to '/ConcertSyncClient/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-19764885
+LogInit: Engine Version: 5.0.1-19764885+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) (), CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz, GPU: NVIDIA GeForce GT 1030
+LogInit: Compiled (64-bit): Apr 15 2022 04:06:52
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.05.23-07.16.04:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.05.23-07.16.04:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.05.23-07.16.04:682][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.05.23-07.16.04:683][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.05.23-07.16.04:685][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.05.23-07.16.04:685][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.05.23-07.16.04:685][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.05.23-07.16.04:685][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.05.23-07.16.04:685][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.05.23-07.16.04:685][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.05.23-07.16.04:685][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.05.23-07.16.04:685][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.05.23-07.16.04:685][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.05.23-07.16.04:685][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.05.23-07.16.04:685][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.05.23-07.16.04:704][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI:     Description : NVIDIA GeForce GT 1030
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI:     DeviceId    : 1d01
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI:     SubSysId    : 86211043
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI:     DedicatedVideoMemory : 2078662656 bytes
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI:     SharedSystemMemory : 8497348608 bytes
+[2022.05.23-07.16.04:706][  0]LogD3D11RHI:     AdapterLuid : 0 74602
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 1030' (Feature Level 11_1)
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:       1982/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics 630
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:     DeviceId    : 3e92
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:     SubSysId    : 85c1028
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:     Revision    : 0000
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:     SharedSystemMemory : 8497348608 bytes
+[2022.05.23-07.16.04:804][  0]LogD3D11RHI:     AdapterLuid : 0 77360
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_1)
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:       128/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:     Revision    : 0000
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:     SharedSystemMemory : 8497348608 bytes
+[2022.05.23-07.16.04:818][  0]LogD3D11RHI:     AdapterLuid : 0 77300
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:       0/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:     Description : NVIDIA GeForce GT 1030
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:     DeviceId    : 1d01
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:     SubSysId    : 86211043
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:     DedicatedVideoMemory : 2078662656 bytes
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:     SharedSystemMemory : 8497348608 bytes
+[2022.05.23-07.16.04:820][  0]LogD3D11RHI:     AdapterLuid : 0 74602
+[2022.05.23-07.16.04:820][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.23-07.16.04:820][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.05.23-07.16.04:820][  0]LogHAL: Display: Platform has ~ 16 GB [16994697216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.23-07.16.04:820][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.05.23-07.16.04:820][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2022.05.23-07.16.04:821][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.05.23-07.16.04:821][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.23-07.16.04:822][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.05.23-07.16.04:822][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/Saved/Config/WindowsEditor/Editor.ini]
+[2022.05.23-07.16.04:822][  0]LogInit: Computer: PCFEIB208-093
+[2022.05.23-07.16.04:822][  0]LogInit: User: Administrator
+[2022.05.23-07.16.04:822][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.05.23-07.16.04:822][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.23-07.16.04:822][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.05.23-07.16.04:822][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.05.23-07.16.04:822][  0]LogMemory: Process Physical Memory: 250.50 MB used, 256.87 MB peak
+[2022.05.23-07.16.04:822][  0]LogMemory: Process Virtual Memory: 194.73 MB used, 210.96 MB peak
+[2022.05.23-07.16.04:822][  0]LogMemory: Physical Memory: 7583.78 MB used,  8623.62 MB free, 16207.41 MB total
+[2022.05.23-07.16.04:822][  0]LogMemory: Virtual Memory: 10133.52 MB used,  8505.89 MB free, 18639.41 MB total
+[2022.05.23-07.16.04:822][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.05.23-07.16.04:828][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.23-07.16.04:841][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.05.23-07.16.04:842][  0]LogInit: Using OS detected language (en-US).
+[2022.05.23-07.16.04:842][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.23-07.16.04:845][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.05.23-07.16.05:005][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.23-07.16.05:017][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.05.23-07.16.05:017][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.05.23-07.16.05:017][  0]LogWindowsTextInputMethodSystem:   - Czech (Czechia) - (Keyboard).
+[2022.05.23-07.16.05:017][  0]LogWindowsTextInputMethodSystem: Activated input method: Czech (Czechia) - (Keyboard).
+[2022.05.23-07.16.05:031][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.23-07.16.05:031][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.23-07.16.05:142][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.23-07.16.05:142][  0]LogD3D11RHI:     GPU DeviceId: 0x1d01 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.23-07.16.05:142][  0]LogWindows: EnumDisplayDevices:
+[2022.05.23-07.16.05:142][  0]LogWindows:    0. 'NVIDIA GeForce GT 1030' (P:1 D:1)
+[2022.05.23-07.16.05:142][  0]LogWindows:    1. 'NVIDIA GeForce GT 1030' (P:0 D:0)
+[2022.05.23-07.16.05:142][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.05.23-07.16.05:143][  0]LogWindows:    3. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.05.23-07.16.05:143][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.05.23-07.16.05:143][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 1030
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:   Driver Version: 471.96 (internal:30.0.14.7196, unified:471.96)
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:      Driver Date: 8-27-2021
+[2022.05.23-07.16.05:143][  0]LogRHI: Texture pool is 1387 MB (70% of 1982 MB)
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:     Description : NVIDIA GeForce GT 1030
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:     DeviceId    : 1d01
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:     SubSysId    : 86211043
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:     DedicatedVideoMemory : 2078662656 bytes
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:     SharedSystemMemory : 8497348608 bytes
+[2022.05.23-07.16.05:143][  0]LogD3D11RHI:     AdapterLuid : 0 74602
+[2022.05.23-07.16.05:226][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.23-07.16.05:226][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.23-07.16.05:226][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.05.23-07.16.05:226][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.23-07.16.05:248][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.23-07.16.05:287][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.23-07.16.06:645][  0]LogWindowsTextInputMethodSystem: Activated input method: Czech (Czechia) - (Keyboard).
+[2022.05.23-07.16.06:646][  0]LogWindowsTextInputMethodSystem: Activated input method: Czech (Czechia) - (Keyboard).
+[2022.05.23-07.16.06:647][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues.
+Please install either the latest or the recommended driver version.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GT 1030
+Installed: 471.96
+Recommended: 511.79
+[2022.05.23-07.16.06:652][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/PraxeVSB.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/PraxeVSB.uproject"  -platform=all'
+[2022.05.23-07.16.06:652][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/PraxeVSB.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/PraxeVSB.uproject"  -platform=all" ]
+[2022.05.23-07.16.06:672][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.05.23-07.16.06:678][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.05.23-07.16.06:678][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.05.23-07.16.06:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.23-07.16.06:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.23-07.16.06:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.23-07.16.06:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.23-07.16.06:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.23-07.16.06:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.23-07.16.06:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.23-07.16.06:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.23-07.16.06:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.23-07.16.06:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.23-07.16.06:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.05.23-07.16.06:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.05.23-07.16.06:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.23-07.16.06:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.23-07.16.06:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.23-07.16.06:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.05.23-07.16.06:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.23-07.16.06:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.23-07.16.06:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.05.23-07.16.06:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.05.23-07.16.06:714][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.05.23-07.16.06:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.23-07.16.06:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.23-07.16.06:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.23-07.16.06:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.05.23-07.16.06:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.23-07.16.06:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.23-07.16.06:721][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.05.23-07.16.06:727][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.23-07.16.06:730][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.05.23-07.16.06:730][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.05.23-07.16.06:730][  0]LogTargetPlatformManager:   ADPCM
+[2022.05.23-07.16.06:730][  0]LogTargetPlatformManager:   PCM
+[2022.05.23-07.16.06:733][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.05.23-07.16.06:733][  0]LogTargetPlatformManager:   BINKA
+[2022.05.23-07.16.06:733][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.05.23-07.16.06:733][  0]LogTargetPlatformManager:   OGG
+[2022.05.23-07.16.06:733][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.05.23-07.16.06:733][  0]LogTargetPlatformManager:   OPUS
+[2022.05.23-07.16.06:775][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   SF_METAL
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.05.23-07.16.06:779][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.05.23-07.16.06:782][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.05.23-07.16.06:782][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.05.23-07.16.06:782][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.05.23-07.16.06:782][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.05.23-07.16.06:782][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.05.23-07.16.06:782][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.05.23-07.16.06:782][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.05.23-07.16.06:782][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.23-07.16.06:782][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.23-07.16.06:788][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.05.23-07.16.06:788][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.23-07.16.06:792][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.05.23-07.16.06:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.23-07.16.06:796][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.05.23-07.16.06:796][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.23-07.16.06:796][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.05.23-07.16.06:814][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1092 MiB)
+[2022.05.23-07.16.06:815][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.23-07.16.06:815][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.05.23-07.16.06:823][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.23-07.16.06:823][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=282.88MBs, RandomWriteSpeed=200.43MBs. Assigned SpeedClass 'Local'
+[2022.05.23-07.16.06:824][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.23-07.16.06:824][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.23-07.16.06:824][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.05.23-07.16.06:832][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.05.23-07.16.06:832][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.05.23-07.16.06:833][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Intermediate/Shaders/WorkingDirectory/15184/).
+[2022.05.23-07.16.06:833][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/91D5EE9F40C435DE1C9AB5AC10C4A9A5/'.
+[2022.05.23-07.16.06:833][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.23-07.16.06:833][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.05.23-07.16.08:180][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.05.23-07.16.08:180][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.23-07.16.08:180][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.23-07.16.08:216][  0]LogAssetRegistry: FAssetRegistry took 0.0148 seconds to start up
+[2022.05.23-07.16.08:221][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.05.23-07.16.08:420][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.05.23-07.16.08:421][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.05.23-07.16.08:788][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.05.23-07.16.08:788][  0]LogDeviceProfileManager: Active device profile: [0000041F5BC45080][0000041F50620000 50] WindowsEditor
+[2022.05.23-07.16.08:788][  0]LogDeviceProfileManager: Profiles: [0000041F5BC44B40][0000041F5059A000 50] Windows, [0000041F5BC45080][0000041F50620000 50] WindowsEditor, [0000041F5BC44980][0000041F41725000 50] WindowsServer, [0000041F5BC44600][0000041F505F5000 50] WindowsClient, [0000041F5BC40C40][0000041F4EE87800 50] IOS, [0000041F5BC44440][0000041F5BC60000 50] iPadAir2, [0000041F5BC40380][0000041F5BC67800 50] IPadPro, [0000041F5BC40FC0][0000041F5BC65000 50] iPadAir3, [0000041F5BC45240][0000041F5BC6A000 50] iPadAir4, [0000041F5BC42A00][0000041F5BC6C800 50] iPadMini4, [0000041F5BC424C0][0000041F505F2800 50] iPadMini5, [0000041F5BC45400][0000041F5BC80000 50] iPadMini6, [0000041F5BC48880][0000041F5BC8A000 50] iPhone6S, [0000041F5BC48C00][0000041F5BC87800 50] iPhone7, [0000041F5BC48500][0000041F5BC85000 50] iPodTouch7, [0000041F5BC48180][0000041F5BC8C800 50] iPhone6SPlus, [0000041F5BC43480][0000041F5BC62800 50] iPhone7Plus, [0000041F5BC401C0][0000041F5BC90000 50] iPhoneSE, [0000041F5BC47FC0][0000041F5BC95000 50] iPhone8, [0000041F5BC432C0][0000041F5BC97800 50] iPhone8Plus, [0000041F5BC41340][0000041F5BC9A000 50] iPhoneX, [0000041F5BC440C0][0000041F5BC9C800 50] iPhoneXS, [0000041F5BC42BC0][0000041F5BC82800 50] iPhoneXSMax, [0000041F5BC47E00][0000041F5BCA0000 50] iPhoneXR, [0000041F5BC40540][0000041F5BCA5000 50] iPhone11, [0000041F5BC45CC0][0000041F5BCA7800 50] iPhone11Pro, [0000041F5BC47A80][0000041F5BCAA000 50] iPhone11ProMax, [0000041F5BC43640][0000041F5BCAC800 50] iPhoneSE2, [0000041F5BC478C0][0000041F5BC92800 50] iPhone12Mini, [0000041F5BC43D40][0000041F5BCB0000 50] iPhone12, [0000041F5BC47700][0000041F5BCB5000 50] iPhone12Pro, [0000041F5BC42F40][0000041F5BCB7800 50] iPhone12ProMax, [0000041F5BC42140][0000041F5BCBA000 50] iPhone13Mini, [0000041F5BC41500][0000041F5BCBC800 50] iPhone13, [0000041F5BC42300][0000041F5BCA2800 50] iPhone13Pro, [0000041F5BC416C0][0000041F5BCD0000 50] iPhone13ProMax, [0000041F5BC463C0][0000041F5BCD5000 50] iPadPro105, [0000041F5BC40A80][0000041F5BCD7800 50] iPadPro129, [0000041F5BC45780][0000041F5BCDA000 50] iPadPro97, [0000041F5BC41880][0000041F5BCDC800 50] iPadPro2_129, [0000041F5BC41A40][0000041F5BCB2800 50] iPad5, [0000041F5BC40E00][0000041F5BCE0000 50] iPad6, [0000041F5BC486C0][0000041F5BCE5000 50] iPad7, [0000041F5BC40700][0000041F5BCE7800 50] iPad8, [0000041F5BC41DC0][0000041F5BCEA000 50] iPad9, [0000041F5BC44280][0000041F5BCEC800 50] iPadPro11, [0000041F5BC439C0][0000041F5BCD2800 50] iPadPro2_11, [0000041F5BC46580][0000041F5BCF0000 50] iPadPro3_11, [0000041F5BC46AC0][0000041F5BCF5000 50] iPadPro3_129, [0000041F5BC43F00][0000041F5BCF7800 50] iPadPro4_129, [0000041F5BC42D80][0000041F5BCFA000 50] iPadPro5_129, [0000041F5BC471C0][0000041F5BCFC800 50] AppleTV, [0000041F5BC47000][0000041F5BCE2800 50] AppleTV4K, [0000041F5BC46900][0000041F5BD00000 50] TVOS, [0000041F5BC4A2C0][0000041F5BD07800 50] Mac, [0000041F5BC4A640][0000041F5BD05000 50] MacEditor, [0000041F5BC40000][0000041F5BD0A000 50] MacClient, [0000041F5BC43800][0000041F5BD0C800 50] MacServer, [0000041F5BC4AF00][0000041F5BD30000 50] Linux, [0000041F5BC4B280][0000041F5BD32800 50] LinuxEditor, [0000041F5BC494C0][0000041F5BD37800 50] LinuxArm64Editor, [0000041F5BC4B440][0000041F5BD3A000 50] LinuxArm64, [0000041F5BC46040][0000041F5BD3C800 50] LinuxClient, [0000041F5BC4A9C0][0000041F5BCF2800 50] LinuxArm64Client, [0000041F5BC46200][0000041F5BD35000 50] LinuxServer, [0000041F5BC408C0][0000041F5BD10000 50] LinuxArm64Server, [0000041F5BC48A40][0000041F5BD15000 50] Android, [0000041F5BC43100][0000041F5BD17800 50] Android_Preview_OpenGL, [0000041F5BC49840][0000041F5BD1A000 50] Android_Preview_Vulkan, [0000041F5BC455C0][0000041F5BD1C800 50] Android_Low, [0000041F5BC47380][0000041F5BD02800 50] Android_Mid, [0000041F5BC4A100][0000041F5BD20000 50] Android_High, [0000041F5BC4A480][0000041F5BD25000 50] Android_Default, [0000041F5BC45940][0000041F5BD27800 50] Android_Adreno4xx, [0000041F5BC48340][0000041F5BD2A000 50] Android_Adreno5xx_Low, [0000041F5BC49BC0][0000041F5BD2C800 50] Android_Adreno5xx, [0000041F5BC41180][0000041F5BD12800 50] Android_Adreno6xx, [0000041F5BC43B80][0000041F5BD40000 50] Android_Adreno6xx_Vulkan, [0000041F5BC46740][0000041F5BD45000 50] Android_Adreno7xx, [0000041F5BC42840][0000041F5BD47800 50] Android_Adreno7xx_Vulkan, [0000041F5BC48F80][0000041F5BD4A000 50] Android_Mali_T6xx, [0000041F5BC4A800][0000041F5BD4C800 50] Android_Mali_T7xx, [0000041F5BC45B00][0000041F5BD22800 50] Android_Mali_T8xx, [0000041F5BC4B0C0][0000041F5BD50000 50] Android_Mali_G71, [0000041F5BC4B600][0000041F5BD55000 50] Android_Mali_G72, [0000041F5BC4BB40][0000041F5BD57800 50] Android_Mali_G72_Vulkan, [0000041F5BC44EC0][0000041F5BD5A000 50] Android_Mali_G76, [0000041F5BC4B980][0000041F5BD5C800 50] Android_Mali_G76_Vulkan, [0000041F5BC4BD00][0000041F5BD42800 50] Android_Mali_G77, [0000041F5BC47540][0000041F5BD60000 50] Android_Mali_G77_Vulkan, [0000041F5BC49680][0000041F5BD65000 50] Android_Mali_G78, [0000041F5BC4BEC0][0000041F5BD67800 50] Android_Mali_G78_Vulkan, [0000041F5BC45E80][0000041F5BD6A000 50] Android_Mali_G710, [0000041F5BC4C080][0000041F5BD6C800 50] Android_Mali_G710_Vulkan, [0000041F5BC49F40][0000041F5BD52800 50] Android_Xclipse_920, [0000041F5BC42680][0000041F5BD70000 50] Android_Xclipse_920_Vulkan, [0000041F5BC4AD40][0000041F5BD75000 50] Android_Vulkan_SM5, [0000041F5BC4C240][0000041F5BD77800 50] Android_PowerVR_G6xxx, [0000041F5BC447C0][0000041F5BD7A000 50] Android_PowerVR_GT7xxx, [0000041F5BC4CE80][0000041F5BD7C800 50] Android_PowerVR_GE8xxx, [0000041F5BC4B7C0][0000041F5BD62800 50] Android_PowerVR_GM9xxx, [0000041F5BC4D040][0000041F5BD80000 50] Android_PowerVR_GM9xxx_Vulkan, [0000041F5BC49D80][0000041F5BD85000 50] Android_TegraK1, [0000041F5BC49300][0000041F5BD87800 50] Android_Unknown_Vulkan, [0000041F5BC4AB80][0000041F5BD8A000 50] Oculus_Quest, [0000041F5BC4DC80][0000041F5BD8C800 50] Oculus_Quest2, [0000041F5BC49A00][0000041F5BD72800 50] HoloLens, 
+[2022.05.23-07.16.08:789][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.05.23-07.16.08:802][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.05.23-07.16.08:808][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android SDK directory is not set correctly.")
+[2022.05.23-07.16.08:808][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.05.23-07.16.08:808][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.23-07.16.08:808][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.05.23-07.16.08:808][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.05.23-07.16.09:015][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.23-07.16.09:015][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.23-07.16.09:015][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.23-07.16.09:015][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.23-07.16.09:015][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.23-07.16.09:029][  0]LogNetVersion: PraxeVSB 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4230680459)
+[2022.05.23-07.16.09:168][  0]LogSlate: Border
+[2022.05.23-07.16.09:168][  0]LogSlate: BreadcrumbButton
+[2022.05.23-07.16.09:168][  0]LogSlate: Default
+[2022.05.23-07.16.09:168][  0]LogSlate: Icons.Save
+[2022.05.23-07.16.09:168][  0]LogSlate: Icons.Toolbar.Settings
+[2022.05.23-07.16.09:168][  0]LogSlate: ListView
+[2022.05.23-07.16.09:168][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.05.23-07.16.09:168][  0]LogSlate: SoftwareCursor_Grab
+[2022.05.23-07.16.09:168][  0]LogSlate: TableView.DarkRow
+[2022.05.23-07.16.09:168][  0]LogSlate: TableView.Row
+[2022.05.23-07.16.09:168][  0]LogSlate: TreeView
+[2022.05.23-07.16.09:349][  0]SourceControl: Source control is disabled
+[2022.05.23-07.16.09:379][  0]SourceControl: Source control is disabled
+[2022.05.23-07.16.09:379][  0]SourceControl: Source control is disabled
+[2022.05.23-07.16.09:509][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.05.23-07.16.09:509][  0]LogUObjectAllocator: 5584248 out of 0 bytes used by permanent object pool.
+[2022.05.23-07.16.09:509][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.23-07.16.09:843][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E227923D4C2376108D5AC0A6EC7FE5FF | Instance: 106F49494367CEB9CF48F18641643704 (PCFEIB208-093-15184).
+[2022.05.23-07.16.09:877][  0]LogPython: Using Python 3.9.7
+[2022.05.23-07.16.10:745][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.23-07.16.10:750][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.23-07.16.11:462][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.23-07.16.11:511][  0]SourceControl: Source control is disabled
+[2022.05.23-07.16.11:513][  0]SourceControl: Source control is disabled
+[2022.05.23-07.16.11:523][  0]SourceControl: Source control is disabled
+[2022.05.23-07.16.11:532][  0]LogUProjectInfo: Found projects:
+[2022.05.23-07.16.11:551][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.23-07.16.11:575][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.23-07.16.11:575][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.23-07.16.11:710][  0]LogCollectionManager: Loaded 0 collections in 0.002117 seconds
+[2022.05.23-07.16.11:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/Saved/Collections/' took 0.00s
+[2022.05.23-07.16.11:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Developers/Administrator/Collections/' took 0.00s
+[2022.05.23-07.16.11:915][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Collections/' took 0.00s
+[2022.05.23-07.16.12:251][  0]LogEngine: Initializing Engine...
+[2022.05.23-07.16.12:267][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.05.23-07.16.12:270][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.23-07.16.12:573][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.23-07.16.12:573][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.23-07.16.12:585][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.23-07.16.12:618][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.23-07.16.12:619][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.23-07.16.12:651][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.23-07.16.12:651][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.23-07.16.12:651][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.05.23-07.16.12:652][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.23-07.16.12:652][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.23-07.16.12:652][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.23-07.16.12:652][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.23-07.16.12:652][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.23-07.16.12:652][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.23-07.16.12:652][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.05.23-07.16.12:652][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.23-07.16.12:652][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.05.23-07.16.12:652][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.23-07.16.12:652][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.23-07.16.12:652][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.23-07.16.12:652][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.23-07.16.12:659][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.23-07.16.12:973][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2022.05.23-07.16.12:973][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.23-07.16.12:975][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.23-07.16.12:975][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.23-07.16.12:975][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.05.23-07.16.12:975][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.05.23-07.16.12:977][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.05.23-07.16.12:977][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.05.23-07.16.12:977][  0]LogInit: FAudioDevice initialized.
+[2022.05.23-07.16.12:977][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.23-07.16.12:978][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.23-07.16.12:978][  0]LogInit: Texture streaming: Enabled
+[2022.05.23-07.16.13:016][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-19764885+++UE5+Release-5.0
+[2022.05.23-07.16.13:026][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.23-07.16.13:061][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.05.23-07.16.13:070][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.05.23-07.16.13:070][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.05.23-07.16.14:685][  0]LogLiveCoding: Display: First instance in process group "UE_PraxeVSB_0xb748fc43", spawning console
+[2022.05.23-07.16.14:685][  0]LogLiveCoding: Display: Waiting for server
+[2022.05.23-07.16.14:685][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.05.23-07.16.14:714][  0]LogInit: Transaction tracking system initialized
+[2022.05.23-07.16.14:796][  0]BlueprintLog: New page: Editor Load
+[2022.05.23-07.16.15:003][  0]LocalizationService: Localization service is disabled
+[2022.05.23-07.16.15:054][  0]TimingProfiler: Initialize
+[2022.05.23-07.16.15:054][  0]TimingProfiler: OnSessionChanged
+[2022.05.23-07.16.15:055][  0]LoadingProfiler: Initialize
+[2022.05.23-07.16.15:055][  0]LoadingProfiler: OnSessionChanged
+[2022.05.23-07.16.15:055][  0]NetworkingProfiler: Initialize
+[2022.05.23-07.16.15:055][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.23-07.16.15:055][  0]MemoryProfiler: Initialize
+[2022.05.23-07.16.15:055][  0]MemoryProfiler: OnSessionChanged
+[2022.05.23-07.16.15:453][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/' took 0.02s
+[2022.05.23-07.16.15:453][  0]LogAutoSizeComments: Startup AutoSizeComments
+[2022.05.23-07.16.15:741][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.05.23-07.16.16:023][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.23-07.16.16:024][  0]SourceControl: Source control is disabled
+[2022.05.23-07.16.16:025][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.604
+[2022.05.23-07.16.16:025][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.23-07.16.16:025][  0]LightingResults: New page: Lighting Build
+[2022.05.23-07.16.16:033][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.23-07.16.16:033][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.23-07.16.16:033][  0]MapCheck: New page: Map Check
+[2022.05.23-07.16.16:033][  0]LightingResults: New page: Lighting Build
+[2022.05.23-07.16.16:041][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.23-07.16.16:043][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.05.23-07.16.16:415][  0]LogTexture: Display: Building textures: /Game/Models/Rat/Rat_diffuse.Rat_diffuse (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.16:415][  0]LogTexture: Display: Building textures: /Game/Models/Rat/Rat_normal.Rat_normal (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.16:415][  0]LogTexture: Display: Building textures: /Game/Models/Rat/Rat_roughness.Rat_roughness (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.16:415][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave bzuceni_svetla...
+[2022.05.23-07.16.16:427][  0]LogTexture: Display: Building textures: /Game/Models/Board/Tabule_diffuse.Tabule_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.16:427][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/bzuceni_svetla.bzuceni_svetla will be modified from 40 to 40.
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Board/Tabule_roughness.Tabule_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Clock/Clock_diffuse.Clock_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Keypad/numpad_001_diffuse.numpad_001_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Keypad/numpad_001_metalness.numpad_001_metalness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Keypad/numpad_001_normal.numpad_001_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Keypad/numpad_001_roughness.numpad_001_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Door/vrataFin_color.vrataFin_color (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Door/vrataFin_normal.vrataFin_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Door/vrataFin_roughness.vrataFin_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Lamp/industrial_lamp2_002_diffuse.industrial_lamp2_002_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Lamp/industrial_lamp2_002_metalness.industrial_lamp2_002_metalness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Lamp/industrial_lamp2_002_normal.industrial_lamp2_002_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/Lamp/industrial_lamp2_002_roughness.industrial_lamp2_002_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/IndustrialLamp1/small_industrial_lamp_002_diffuse.small_industrial_lamp_002_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/IndustrialLamp1/small_industrial_lamp_002_normal.small_industrial_lamp_002_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogTexture: Display: Building textures: /Game/Models/IndustrialLamp1/small_industrial_lamp_002_roughness.small_industrial_lamp_002_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:383][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 11141440 while cooking SoundWave /Game/Sounds/bzuceni_svetla.bzuceni_svetla.
+[2022.05.23-07.16.17:386][  0]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/bzuceni_svetla.bzuceni_svetla: 262144
+[2022.05.23-07.16.17:388][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave hodiny...
+[2022.05.23-07.16.17:392][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/hodiny.hodiny will be modified from 40 to 40.
+[2022.05.23-07.16.17:753][  0]LogTexture: Display: Building textures: /Game/Models/Pipe/pipe_base_rings_diffuse.pipe_base_rings_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:753][  0]LogTexture: Display: Building textures: /Game/Models/Pipe/pipe_base_rings_normal.pipe_base_rings_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:753][  0]LogTexture: Display: Building textures: /Game/Maps/OldFactoryLevel_BuiltData.OldFactoryLevel_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:753][  0]LogTexture: Display: Building textures: /Game/Maps/OldFactoryLevel_BuiltData.OldFactoryLevel_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:753][  0]LogTexture: Display: Building textures: /Game/Maps/OldFactoryLevel_BuiltData.OldFactoryLevel_BuiltData:ShadowMapTexture2D_0 (G8, 128X64 X1X1) (Required Memory Estimate: 0.052085 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.17:753][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 4230184 while cooking SoundWave /Game/Sounds/hodiny.hodiny.
+[2022.05.23-07.16.17:754][  0]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/hodiny.hodiny: 262144
+[2022.05.23-07.16.17:766][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave kapani...
+[2022.05.23-07.16.17:781][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sounds/kapani.kapani will be modified from 40 to 40.
+[2022.05.23-07.16.18:741][  0]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Bricks/factory_brick_diff_4k.factory_brick_diff_4k (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.18:741][  0]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Bricks/factory_brick_nor_gl_4k.factory_brick_nor_gl_4k (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.18:741][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 11529924 while cooking SoundWave /Game/Sounds/kapani.kapani.
+[2022.05.23-07.16.18:743][  0]LogAudio: Display: Chunk size for SoundWave /Game/Sounds/kapani.kapani: 262144
+[2022.05.23-07.16.18:771][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Rat/A_Rat_idle.A_Rat_idle
+[2022.05.23-07.16.18:771][  0]LogMaterial: Display: Missing cached shadermap for Rat_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 737E3B282E9F54C831D623978271092885CE7668), compiling. 
+[2022.05.23-07.16.18:874][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Rat/A_Rat_Run.A_Rat_Run
+[2022.05.23-07.16.18:874][  0]LogMaterial: Display: Missing cached shadermap for Tabule_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9A10EDF784B2CBD76F17B5B29DBB83A085704366), compiling. 
+[2022.05.23-07.16.18:913][  0]LogSkeletalMesh: Building Skeletal Mesh Rat...
+[2022.05.23-07.16.18:913][  0]LogMaterial: Display: Missing cached shadermap for ClockVertexMat in PCD3D_SM5, Default, SM5 (DDC key hash: E1E210250D690A5DCC48878CB33285977D32A6ED), compiling. 
+[2022.05.23-07.16.18:987][  0]LogMaterial: Display: Missing cached shadermap for KeypadNew_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A72D9FAFBB63FCCC0337AD2AC7DAD38122F7452D), compiling. 
+[2022.05.23-07.16.19:062][  0]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Models/Rat/Rat.Rat
+[2022.05.23-07.16.19:062][  0]LogStaticMesh: Display: Building static mesh tabule...
+[2022.05.23-07.16.19:062][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Board/tabule.tabule
+[2022.05.23-07.16.19:062][  0]LogStaticMesh: Display: Building static mesh clock...
+[2022.05.23-07.16.19:062][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Clock/clock.clock
+[2022.05.23-07.16.19:062][  0]LogMaterial: Display: Missing cached shadermap for vrataFinbake in PCD3D_SM5, Default, SM5 (DDC key hash: F354F9D99FA616F71F5DD0EF5F282D5280A7D4EF), compiling. 
+[2022.05.23-07.16.19:088][  0]LogMaterial: Display: Missing cached shadermap for industrial_lamp2_002_mat_001 in PCD3D_SM5, Default, SM5 (DDC key hash: AAB13EE2E78E6A650CD1635F98744FF42025A262), compiling. 
+[2022.05.23-07.16.19:123][  0]LogMaterial: Display: Missing cached shadermap for small_industrial_lamp_002_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 63F78B9E6A7FD230667E178B50D768BC4DB0634A), compiling. 
+[2022.05.23-07.16.19:151][  0]LogMaterial: Display: Missing cached shadermap for pipe_base_rings_mat in PCD3D_SM5, Default, SM5 (DDC key hash: B316D647F55584B1BC060896C14CD5C0B2B94E79), compiling. 
+[2022.05.23-07.16.19:204][  0]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Bricks/factory_brick_rough_4k.factory_brick_rough_4k (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.19:204][  0]LogMaterial: Display: Missing cached shadermap for kod_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3A6938F4A43124F39589B996824F40AB9C878889), compiling. 
+[2022.05.23-07.16.19:287][  0]LogMaterial: Display: Missing cached shadermap for M_DecalPuddle in PCD3D_SM5, Default, SM5 (DDC key hash: CD1D826871B62DB011ED58CD565E03F75529914A), compiling. 
+[2022.05.23-07.16.19:333][  0]LogMaterial: Display: Missing cached shadermap for BricksMat in PCD3D_SM5, Default, SM5 (DDC key hash: 2615DE6F3615E2F81B1672BB7B8AE6E10C38E8AB), compiling. 
+[2022.05.23-07.16.19:390][  0]LogMaterial: Display: Missing cached shadermap for M_MS_Default_Material in PCD3D_SM5, Default, SM5 (DDC key hash: B05A8E589DB4D752CF17FBA6A21CBC3E22C00F55), compiling. 
+[2022.05.23-07.16.19:515][  0]LogMaterial: Display: Missing cached shadermap for barrel_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7F22C91A8C5F7D70B8F1739F3622EF1BB6095B1A), compiling. 
+[2022.05.23-07.16.19:545][  0]LogTexture: Display: Building textures: /Game/Materials/Decals/Code/kod.kod (TFO_AutoDXT, 12094X12094 X1X1) (Required Memory Estimate: 2789.78035 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.19:546][  0]LogMaterial: Display: Missing cached shadermap for warehouse_box_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9A1C9F71FC70E205962E8EAB13A244F2506F114C), compiling. 
+[2022.05.23-07.16.19:580][  0]LogMaterial: Display: Missing cached shadermap for material in PCD3D_SM5, Default, SM5 (DDC key hash: 69D6AE60985BC56B86AF23F08101F46FD5179C03), compiling. 
+[2022.05.23-07.16.19:616][  0]LogMaterial: Display: Missing cached shadermap for Bu6 in PCD3D_SM5, Default, SM5 (DDC key hash: B81D866A70F6B3EAF29AEFB92A11005859DD31EB), compiling. 
+[2022.05.23-07.16.19:648][  0]LogMaterial: Display: Missing cached shadermap for But1_007_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6D22DB2278B60DDC34E1EBE9B9BE8FD0AE6E1ADA), compiling. 
+[2022.05.23-07.16.19:681][  0]LogMaterial: Display: Missing cached shadermap for But2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1EC256C4F2AFE1311B2E5271F648E27B30271737), compiling. 
+[2022.05.23-07.16.19:713][  0]LogMaterial: Display: Missing cached shadermap for But3 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D63936489992109E4ADD8443267E851197435F4), compiling. 
+[2022.05.23-07.16.19:749][  0]LogMaterial: Display: Missing cached shadermap for But4 in PCD3D_SM5, Default, SM5 (DDC key hash: 6EDFEEAE171814001237FC891D361CA028EDEA33), compiling. 
+[2022.05.23-07.16.19:781][  0]LogMaterial: Display: Missing cached shadermap for But5 in PCD3D_SM5, Default, SM5 (DDC key hash: E56AF8CB072193075847D218A15993BB45387FD4), compiling. 
+[2022.05.23-07.16.19:813][  0]LogMaterial: Display: Missing cached shadermap for Display in PCD3D_SM5, Default, SM5 (DDC key hash: EA9EBA80025A556B69DB9A28C7F5310BCCDEBA19), compiling. 
+[2022.05.23-07.16.19:842][  0]LogMaterial: Display: Missing cached shadermap for Display_001 in PCD3D_SM5, Default, SM5 (DDC key hash: A598700A2CAB7A9C4A43FD720F96FCA646F34BC1), compiling. 
+[2022.05.23-07.16.19:871][  0]LogMaterial: Display: Missing cached shadermap for Light_SET_ME in PCD3D_SM5, Default, SM5 (DDC key hash: 19E20ACC97904D96263186CA4974A9BAF7DA7259), compiling. 
+[2022.05.23-07.16.19:902][  0]LogMaterial: Display: Missing cached shadermap for LightBulb in PCD3D_SM5, Default, SM5 (DDC key hash: D2B7BE6A82999D3D922D73DA9D579D1B67D7CE22), compiling. 
+[2022.05.23-07.16.19:933][  0]LogMaterial: Display: Missing cached shadermap for Panel in PCD3D_SM5, Default, SM5 (DDC key hash: AF9EAA4DC9D0AE8DD1BB5B3BE18269EFC8053221), compiling. 
+[2022.05.23-07.16.19:965][  0]LogMaterial: Display: Missing cached shadermap for PIG in PCD3D_SM5, Default, SM5 (DDC key hash: A5AEF3ABA5F15A8BF3EB1948FA02B2EE2BDF1075), compiling. 
+[2022.05.23-07.16.20:001][  0]LogMaterial: Display: Missing cached shadermap for PIY in PCD3D_SM5, Default, SM5 (DDC key hash: 8A3308798D8737D4B86760526ACB407FBD9EB237), compiling. 
+[2022.05.23-07.16.20:041][  0]LogMaterial: Display: Missing cached shadermap for ladder_sp_Material_BaseColor_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AC62CF32D6795A9BB3BD81365549798A093545D7), compiling. 
+[2022.05.23-07.16.20:088][  0]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: B53F4914B38049E9028B65E6A5BE433FF4957171), compiling. 
+[2022.05.23-07.16.20:154][  0]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 8E30DC46EB9D45E5761360201305D9E50E8CEE48), compiling. 
+[2022.05.23-07.16.20:255][  0]LogMaterial: Display: Missing cached shadermap for bakeModCatwalk in PCD3D_SM5, Default, SM5 (DDC key hash: C4D0C2033FE2FD45B2E4AA4EB65CD577E40C572B), compiling. 
+[2022.05.23-07.16.20:293][  0]LogMaterial: Display: Missing cached shadermap for bakeModStairs in PCD3D_SM5, Default, SM5 (DDC key hash: 59817DDD89E19E2E5EBE2F35A9063F22FE4E5FF7), compiling. 
+[2022.05.23-07.16.20:327][  0]LogMaterial: Display: Missing cached shadermap for pipe_corner_mat_001 in PCD3D_SM5, Default, SM5 (DDC key hash: EEC43D66A4677EE4F462ED274D79A57DB4EF1015), compiling. 
+[2022.05.23-07.16.20:357][  0]LogMaterial: Display: Missing cached shadermap for radio_mat in PCD3D_SM5, Default, SM5 (DDC key hash: F71A18C4D425FAACE9A803F02F58F83CCDF25467), compiling. 
+[2022.05.23-07.16.20:412][  0]LogStaticMesh: Display: Building static mesh Numpad_vertexColors...
+[2022.05.23-07.16.20:412][  0]LogMaterial: Display: Missing cached shadermap for Glass in PCD3D_SM5, Default, SM5 (DDC key hash: F45F2DAA4D13ACE61E2B150B79ECAB1418D53454), compiling. 
+[2022.05.23-07.16.20:467][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Keypad/Numpad_vertexColors.Numpad_vertexColors
+[2022.05.23-07.16.20:467][  0]LogStaticMesh: Display: Building static mesh vrataFin...
+[2022.05.23-07.16.20:467][  0]LogMaterial: Display: Missing cached shadermap for bakeRam in PCD3D_SM5, Default, SM5 (DDC key hash: CE4C280CA00AB262A17A5425AEEEAD909E6083FC), compiling. 
+[2022.05.23-07.16.20:512][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Door/vrataFin.vrataFin
+[2022.05.23-07.16.20:512][  0]LogMaterial: Display: Missing cached shadermap for metal in PCD3D_SM5, Default, SM5 (DDC key hash: C1BB56B9FFD81A1D8DF0B82B303847D4DBEA7E7A), compiling. 
+[2022.05.23-07.16.20:564][  0]LogMaterial: Display: Missing cached shadermap for metal_dark in PCD3D_SM5, Default, SM5 (DDC key hash: 01030E0E1D38DAECAF17682F91CC81EE059D4C49), compiling. 
+[2022.05.23-07.16.20:608][  0]LogMaterial: Display: Missing cached shadermap for metal_rusty in PCD3D_SM5, Default, SM5 (DDC key hash: E1B3A254F0321F004715BE462371A9D25F9812AE), compiling. 
+[2022.05.23-07.16.20:646][  0]LogMaterial: Display: Missing cached shadermap for smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 2035933C42899D53B5495E21DD76172EA7CF8A0F), compiling. 
+[2022.05.23-07.16.20:686][  0]LogMaterial: Display: Missing cached shadermap for Window in PCD3D_SM5, Default, SM5 (DDC key hash: CF8F4260AE1608BBF990B47939E32DCAD3FFFFAB), compiling. 
+[2022.05.23-07.16.20:724][  0]LogMaterial: Display: Missing cached shadermap for bricks in PCD3D_SM5, Default, SM5 (DDC key hash: EBD8DF82426A4897910C846D0CA2FBB7C1A9B4F7), compiling. 
+[2022.05.23-07.16.20:750][  0]LogMaterial: Display: Missing cached shadermap for metalGreen in PCD3D_SM5, Default, SM5 (DDC key hash: DBAC2F43161BA41E4189513CE52149327C1FFC9B), compiling. 
+[2022.05.23-07.16.20:778][  0]LogMaterial: Display: Missing cached shadermap for steel in PCD3D_SM5, Default, SM5 (DDC key hash: 0E582F925232627A21C4BFF5135F7EFDBE17E58D), compiling. 
+[2022.05.23-07.16.20:805][  0]LogMaterial: Display: Missing cached shadermap for strecha in PCD3D_SM5, Default, SM5 (DDC key hash: FD1497260A6D4DEAA38FF55CD507D070DB294D62), compiling. 
+[2022.05.23-07.16.20:834][  0]LogMaterial: Display: Missing cached shadermap for brick_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 86182EC62D0DEEF04FA4CEC9A56BB674E66D751D), compiling. 
+[2022.05.23-07.16.20:876][  0]LogMaterial: Display: Missing cached shadermap for Dust_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CE87A35417C0E69A20B9112C1B930314A0552608), compiling. 
+[2022.05.23-07.16.20:921][  0]LogMaterial: Display: Missing cached shadermap for Rebar_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D577C65CBFD858B9EEAC455778F6C4BD42CC36C3), compiling. 
+[2022.05.23-07.16.20:965][  0]LogMaterial: Display: Missing cached shadermap for shelf_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 99EBE27E51C11FEA0020E51C93817D235428A32D), compiling. 
+[2022.05.23-07.16.20:996][  0]LogMaterial: Display: Missing cached shadermap for hammer_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 13DE4048B94EC59DEA7AD44C3537D475652B0719), compiling. 
+[2022.05.23-07.16.21:026][  0]LogMaterial: Display: Missing cached shadermap for screwdriver_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3EF77D25EAF88994A16178AC80D6F90E3A1FBDC9), compiling. 
+[2022.05.23-07.16.21:056][  0]LogMaterial: Display: Missing cached shadermap for toolbox_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 04A49DC696E5DEA37BF0F43167FC9499DD41AF49), compiling. 
+[2022.05.23-07.16.21:087][  0]LogMaterial: Display: Missing cached shadermap for wrench_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 89C8FB4C6EDF182123742516AF9336C9C2DE7915), compiling. 
+[2022.05.23-07.16.21:118][  0]LogMaterial: Display: Missing cached shadermap for Cables in PCD3D_SM5, Default, SM5 (DDC key hash: 0EFC0178C2A531C01A7965857B5E7DB54FDE29E2), compiling. 
+[2022.05.23-07.16.21:209][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/Pipe/pipe_base_rings) ...
+[2022.05.23-07.16.26:426][  0]LogStaticMesh: Display: Building static mesh pipe_base_rings...
+[2022.05.23-07.16.26:426][  0]LogStaticMesh: Display: Building static mesh industrial_lamp_bigger...
+[2022.05.23-07.16.26:426][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Pipe/pipe_base_rings.pipe_base_rings
+[2022.05.23-07.16.26:426][  0]LogStaticMesh: Display: Building static mesh industrial_lamp_small...
+[2022.05.23-07.16.26:426][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/Wires/kable_Cables_001) ...
+[2022.05.23-07.16.26:544][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Models/IndustrialLamp1/industrial_lamp_small.industrial_lamp_small
+[2022.05.23-07.16.26:544][  0]LogStaticMesh: Display: Building static mesh kable_Cables_001...
+[2022.05.23-07.16.26:544][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Wires/kable_Cables_001.kable_Cables_001
+[2022.05.23-07.16.26:544][  0]LogStaticMesh: Display: Building static mesh S_Electrical_Boxes_vgyiedcaw_lod3_Var1...
+[2022.05.23-07.16.26:544][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/Wires/kable_Cables) ...
+[2022.05.23-07.16.26:702][  0]LogStaticMesh: Built static mesh [0.25s] /Game/Models/Lamp/industrial_lamp_bigger.industrial_lamp_bigger
+[2022.05.23-07.16.26:702][  0]LogStaticMesh: Display: Building static mesh kable_Cables...
+[2022.05.23-07.16.26:702][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Wires/kable_Cables.kable_Cables
+[2022.05.23-07.16.26:702][  0]LogStaticMesh: Display: Building static mesh S_Rusty_Hanging_Chain_wcwsfhzdw_lod3...
+[2022.05.23-07.16.26:730][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'OldFactoryLevel'.
+[2022.05.23-07.16.26:730][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.05.23-07.16.26:730][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.23-07.16.26:731][  0]LogAIModule: Creating AISystem for world OldFactoryLevel
+[2022.05.23-07.16.26:812][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.23-07.16.26:837][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.23-07.16.26:838][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.23-07.16.26:838][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.297ms to complete.
+[2022.05.23-07.16.26:838][  0]LogFileHelpers: Loading map 'OldFactoryLevel' took 10.817
+[2022.05.23-07.16.26:865][  0]LogUnrealEdMisc: Total Editor Startup Time, took 23.447
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: ================================================
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: Total job queries 1182, among them cache hits 0 (0.00%)
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: Shaders Compiled: 1182
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: Jobs assigned 30, completed 0 (0.00%)
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.03 s
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 10.00 jobs/batch
+[2022.05.23-07.16.26:865][  0]LogShaderCompilers: Display: ================================================
+[2022.05.23-07.16.27:033][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.05.23-07.16.27:077][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.23-07.16.27:086][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.23-07.16.27:094][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.23-07.16.27:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.23-07.16.27:195][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.05.23-07.16.27:196][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.23-07.16.27:206][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.05.23-07.16.27:206][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.23-07.16.27:214][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.05.23-07.16.27:214][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.23-07.16.27:224][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.05.23-07.16.27:224][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.23-07.16.27:240][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.05.23-07.16.27:240][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.23-07.16.27:250][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.05.23-07.16.27:250][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.23-07.16.27:260][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.05.23-07.16.27:260][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.23-07.16.27:268][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.05.23-07.16.27:268][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.23-07.16.27:275][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.05.23-07.16.27:275][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.23-07.16.27:283][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.05.23-07.16.27:283][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.05.23-07.16.27:705][  0]LogSlate: Took 0.000542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.23-07.16.27:710][  0]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.23-07.16.27:724][  0]LogSlate: Took 0.006733 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.23-07.16.27:732][  0]LogSlate: Took 0.004977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.23-07.16.27:741][  0]LogSlate: Took 0.008130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.23-07.16.28:198][  0]LogStall: Startup...
+[2022.05.23-07.16.28:201][  0]LogStall: Startup complete.
+[2022.05.23-07.16.28:217][  0]LogLoad: (Engine Initialization) Total time: 24.80 seconds
+[2022.05.23-07.16.28:217][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.23-07.16.28:329][  0]LogStaticMesh: Built static mesh [1.66s] /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/S_Rusty_Hanging_Chain_wcwsfhzdw_lod3.S_Rusty_Hanging_Chain_wcwsfhzdw_lod3
+[2022.05.23-07.16.28:329][  0]LogStaticMesh: Display: Building static mesh S_Rusty_Metal_Barrel_vijnbi3_lod3_Var1...
+[2022.05.23-07.16.28:329][  0]LogAssetRegistry: Asset discovery search completed in 20.1209 seconds
+[2022.05.23-07.16.28:348][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.05.23-07.16.28:390][  0]LogStaticMesh: Built static mesh [1.87s] /Game/Megascans/3D_Assets/Electrical_Boxes_vgyiedcaw/S_Electrical_Boxes_vgyiedcaw_lod3_Var1.S_Electrical_Boxes_vgyiedcaw_lod3_Var1
+[2022.05.23-07.16.28:390][  0]LogContentStreaming: Texture pool size now 600 MB
+[2022.05.23-07.16.28:482][  1]LogStaticMesh: Display: Building static mesh S_Rusty_Metal_Barrel_vijnbjz_lod3_Var1...
+[2022.05.23-07.16.28:518][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/' took 0.22s
+[2022.05.23-07.16.28:609][  2]LogSlate: Took 0.006897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.23-07.16.28:653][  4]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.29:157][ 53]LogStaticMesh: Built static mesh [0.75s] /Game/Megascans/3D_Assets/Rusty_Metal_Barrel_vijnbjz/S_Rusty_Metal_Barrel_vijnbjz_lod3_Var1.S_Rusty_Metal_Barrel_vijnbjz_lod3_Var1
+[2022.05.23-07.16.29:180][ 55]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.29:357][ 72]LogTexture: Display: Building textures: /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/T_TornAsphaltPatch_vb1gbcjew_2K_DpRA.T_TornAsphaltPatch_vb1gbcjew_2K_DpRA (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.29:582][ 93]LogStaticMesh: Built static mesh [1.26s] /Game/Megascans/3D_Assets/Rusty_Metal_Barrel_vijnbi3/S_Rusty_Metal_Barrel_vijnbi3_lod3_Var1.S_Rusty_Metal_Barrel_vijnbi3_lod3_Var1
+[2022.05.23-07.16.29:806][108]LogTexture: Display: Building textures: /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/T_Torn_Asphalt_Patch_vb1gbcjew_2K_N.T_Torn_Asphalt_Patch_vb1gbcjew_2K_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.29:807][108]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.29:858][109]LogStaticMesh: Display: Building static mesh radio...
+[2022.05.23-07.16.29:858][109]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Radio/radio.radio
+[2022.05.23-07.16.29:858][109]LogStaticMesh: Display: Building static mesh hammer...
+[2022.05.23-07.16.29:858][109]LogStaticMesh: Built static mesh [0.01s] /Game/Models/tools/Hammer/hammer.hammer
+[2022.05.23-07.16.30:141][113]LogTexture: Display: Building textures: /Game/Megascans/Decals/Torn_Asphalt_Patch_vb1gbcjew/T_Torn_Asphalt_Patch_vb1gbcjew_2K_D.T_Torn_Asphalt_Patch_vb1gbcjew_2K_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.30:264][116]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.30:352][126]LogStaticMesh: Display: Building static mesh Screwdriver...
+[2022.05.23-07.16.30:433][134]LogStaticMesh: Built static mesh [0.08s] /Game/Models/tools/Screwdriver/Screwdriver.Screwdriver
+[2022.05.23-07.16.30:444][135]LogStaticMesh: Display: Building static mesh modCatwalk...
+[2022.05.23-07.16.30:464][137]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.30:596][150]LogStaticMesh: Built static mesh [0.15s] /Game/Models/modularCatwalk/modCatwalk.modCatwalk
+[2022.05.23-07.16.30:657][156]LogStaticMesh: Display: Building static mesh wrench...
+[2022.05.23-07.16.30:658][156]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.30:678][158]LogStaticMesh: Built static mesh [0.01s] /Game/Models/tools/Wrench/wrench.wrench
+[2022.05.23-07.16.30:678][158]LogStaticMesh: Display: Building static mesh modStairs...
+[2022.05.23-07.16.30:845][174]LogStaticMesh: Built static mesh [0.17s] /Game/Models/modularStairs/modStairs.modStairs
+[2022.05.23-07.16.30:878][177]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.31:044][193]LogStaticMesh: Display: Building static mesh Toolbox...
+[2022.05.23-07.16.31:045][193]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.31:123][199]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/T_RustyHangingChain_wcwsfhzdw_2K_DpR.T_RustyHangingChain_wcwsfhzdw_2K_DpR (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.31:208][207]LogStaticMesh: Built static mesh [0.16s] /Game/Models/tools/Toolbox/Toolbox.Toolbox
+[2022.05.23-07.16.31:218][208]LogStaticMesh: Display: Building static mesh machine1...
+[2022.05.23-07.16.31:290][210]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.31:389][212]LogStaticMesh: Built static mesh [0.15s] /Game/Models/Machine1/machine1.machine1
+[2022.05.23-07.16.31:623][215]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/T_Rusty_Hanging_Chain_wcwsfhzdw_2K_N.T_Rusty_Hanging_Chain_wcwsfhzdw_2K_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.31:629][215]LogStaticMesh: Display: Building static mesh warehouse_shelf...
+[2022.05.23-07.16.31:742][218]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.32:441][285]LogStaticMesh: Display: Building static mesh S_Wooden_Pallet_vh1icei_lod3_Var1...
+[2022.05.23-07.16.32:529][293]LogStaticMesh: Built static mesh [0.90s] /Game/Models/Shelves/warehouse_shelf.warehouse_shelf
+[2022.05.23-07.16.32:632][303]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.33:047][344]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Hanging_Chain_wcwsfhzdw/T_Rusty_Hanging_Chain_wcwsfhzdw_2K_D.T_Rusty_Hanging_Chain_wcwsfhzdw_2K_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.34:116][456]LogStaticMesh: Display: Building static mesh warehouse_box2_sp...
+[2022.05.23-07.16.34:185][463]LogStaticMesh: Built static mesh [0.08s] /Game/Models/Boxes/Box_2/Substance_painter/warehouse_box2_sp.warehouse_box2_sp
+[2022.05.23-07.16.34:198][464]LogStaticMesh: Display: Building static mesh sutiny_Sutiny_4...
+[2022.05.23-07.16.34:239][467]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.34:296][473]LogStaticMesh: Built static mesh [1.86s] /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/S_Wooden_Pallet_vh1icei_lod3_Var1.S_Wooden_Pallet_vh1icei_lod3_Var1
+[2022.05.23-07.16.34:338][477]LogTexture: Display: Building textures: /Game/Models/Wires/kable_BaseColor.kable_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.34:339][477]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.34:621][504]LogTexture: Display: Building textures: /Game/Models/Wires/kable_Normal.kable_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.34:812][524]LogStaticMesh: Display: Building static mesh pipe_corner...
+[2022.05.23-07.16.34:847][528]LogStaticMesh: Built static mesh [0.03s] /Game/Models/PipeCorner/pipe_corner.pipe_corner
+[2022.05.23-07.16.34:870][530]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.34:887][532]LogTexture: Display: Building textures: /Game/Models/Wires/kable_OcclusionRoughnessMetallic.kable_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.35:398][585]LogStaticMesh: Adjacency [0.03s], tris: 26360, UVs 2
+[2022.05.23-07.16.35:500][596]LogStaticMesh: Clustering [0.11s]. Ratio: 1.029126
+[2022.05.23-07.16.35:505][596]LogStaticMesh: Leaves [0.01s]
+[2022.05.23-07.16.35:505][596]LogStaticMesh: Num clusters 212. Error 0.0000, 0.0000, 0.0000
+[2022.05.23-07.16.35:569][603]LogTexture: Display: Building textures: /Game/Models/Radio/radio_diffuse.radio_diffuse (TFO_AutoDXT, 3072X3072 X1X1) (Required Memory Estimate: 180.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.36:553][704]LogStaticMesh: Num clusters 107. Error 0.1257, 1.4292, 12.8304
+[2022.05.23-07.16.36:824][733]LogStaticMesh: Display: Building static mesh untitled...
+[2022.05.23-07.16.36:835][734]LogStaticMesh: Num clusters 55. Error 0.6984, 10.4040, 12.8304
+[2022.05.23-07.16.36:989][751]LogStaticMesh: Num clusters 29. Error 12.8304, 14.5318, 18.3125
+[2022.05.23-07.16.37:038][756]LogStaticMesh: Built static mesh [0.21s] /Game/Models/Buttons/Panel/untitled.untitled
+[2022.05.23-07.16.37:047][757]LogStaticMesh: Num clusters 15. Error 24.1591, 24.1591, 24.1591
+[2022.05.23-07.16.37:076][759]LogStaticMesh: Num clusters 8. Error 24.2370, 24.2370, 24.2370
+[2022.05.23-07.16.37:098][761]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.37:108][762]LogStaticMesh: Num clusters 4. Error 28.6337, 28.6337, 28.6337
+[2022.05.23-07.16.37:108][762]LogStaticMesh: Num clusters 2. Error 30.2511, 30.2511, 30.2511
+[2022.05.23-07.16.37:119][763]LogStaticMesh: Num clusters 1. Error 31.2747, 31.2747, 31.2747
+[2022.05.23-07.16.37:119][763]LogStaticMesh: Reduce [1.61s]
+[2022.05.23-07.16.37:343][786]LogTexture: Display: Building textures: /Game/Models/Radio/radio_normal.radio_normal (TFO_BC5, 3072X3072 X1X1) (Required Memory Estimate: 180.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.38:006][852]LogTexture: Display: Building textures: /Game/Models/Radio/radio_roughness.radio_roughness (TFO_AutoDXT, 3072X3072 X1X1) (Required Memory Estimate: 180.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.38:059][856]LogStaticMesh: Fallback 0/1 [0.95s], num tris: 6997
+[2022.05.23-07.16.38:160][866]LogStaticMesh: ConstrainClusters:
+[2022.05.23-07.16.38:160][866]LogStaticMesh:   Input: 433 Clusters, 54177 Triangles and 103624 Vertices
+[2022.05.23-07.16.38:160][866]LogStaticMesh:   Output without splits: 433 Clusters, 54177 Triangles and 103624 Vertices
+[2022.05.23-07.16.38:160][866]LogStaticMesh:   Output with splits: 572 Clusters, 54177 Triangles and 103736 Vertices
+[2022.05.23-07.16.38:169][867]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 572, Slow Path Clusters: 0, 1 Material: 318, 2 Materials: 230, 3 Materials: 24, At Least 4 Materials: 0
+[2022.05.23-07.16.38:244][875]LogStaticMesh: WritePages:
+[2022.05.23-07.16.38:244][875]LogStaticMesh:   Root: GPU size: 32376 bytes. 1 Pages. 32376.000 bytes per page (98.804% utilization).
+[2022.05.23-07.16.38:244][875]LogStaticMesh:   Streaming: GPU size: 1102704 bytes. 9 Pages. 122522.664 bytes per page (93.477% utilization).
+[2022.05.23-07.16.38:244][875]LogStaticMesh:   Page data disk size: 1074384 bytes. Fixup data size: 4776 bytes.
+[2022.05.23-07.16.38:244][875]LogStaticMesh:   Total GPU size: 1135080 bytes, Total disk size: 1079160 bytes.
+[2022.05.23-07.16.38:244][875]LogStaticMesh: Encode [0.18s]
+[2022.05.23-07.16.38:244][875]LogStaticMesh: Imposter [0.00s]
+[2022.05.23-07.16.38:244][875]LogStaticMesh: Nanite build [2.74s]
+
+[2022.05.23-07.16.38:289][880]LogStaticMesh: Built static mesh [4.09s] /Game/Models/Rubble/sutiny_Sutiny_4.sutiny_Sutiny_4
+[2022.05.23-07.16.38:328][884]LogStaticMesh: Display: Building static mesh sutiny_Sutiny_2...
+[2022.05.23-07.16.38:399][892]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.38:466][896]LogTexture: Display: Building textures: /Game/Models/modularCatwalk/modularCatwalkfin_color.modularCatwalkfin_color (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.38:611][912]LogStaticMesh: Display: Building static mesh room...
+[2022.05.23-07.16.38:977][950]LogStaticMesh: Adjacency [0.01s], tris: 26360, UVs 2
+[2022.05.23-07.16.39:064][958]LogStaticMesh: Clustering [0.09s]. Ratio: 1.014563
+[2022.05.23-07.16.39:074][959]LogStaticMesh: Leaves [0.01s]
+[2022.05.23-07.16.39:074][959]LogStaticMesh: Num clusters 209. Error 0.0000, 0.0000, 0.0000
+[2022.05.23-07.16.39:742][ 35]LogStaticMesh: Built static mesh [1.12s] /Game/Models/Rooms/Room/room.room
+[2022.05.23-07.16.39:838][ 44]LogStaticMesh: Num clusters 109. Error 0.0699, 0.4197, 0.8948
+[2022.05.23-07.16.40:033][ 55]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.40:195][ 72]LogTexture: Display: Building textures: /Game/Models/modularCatwalk/modularCatwalkfin_metallic.modularCatwalkfin_metallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.40:195][ 72]LogStaticMesh: Num clusters 56. Error 0.9309, 3.2473, 5.6480
+[2022.05.23-07.16.40:341][ 88]LogStaticMesh: Num clusters 29. Error 9.8203, 12.6221, 14.6891
+[2022.05.23-07.16.40:359][ 90]LogTexture: Display: Building textures: /Game/Models/modularCatwalk/modularCatwalkfin_normal.modularCatwalkfin_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.40:393][ 94]LogStaticMesh: Num clusters 15. Error 25.5716, 25.5716, 25.5716
+[2022.05.23-07.16.40:443][100]LogStaticMesh: Num clusters 8. Error 25.5716, 25.5716, 25.5716
+[2022.05.23-07.16.40:461][102]LogStaticMesh: Num clusters 4. Error 29.3614, 29.3614, 29.3614
+[2022.05.23-07.16.40:461][102]LogStaticMesh: Display: Building static mesh room_small...
+[2022.05.23-07.16.40:461][102]LogStaticMesh: Num clusters 2. Error 30.5803, 30.5803, 30.5803
+[2022.05.23-07.16.40:477][103]LogStaticMesh: Num clusters 1. Error 31.4207, 31.4207, 31.4207
+[2022.05.23-07.16.40:477][103]LogStaticMesh: Reduce [1.40s]
+[2022.05.23-07.16.40:485][104]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Rooms/Room/room_small.room_small
+[2022.05.23-07.16.40:511][106]LogTexture: Display: Building textures: /Game/Models/modularCatwalk/modularCatwalkfin_roughness.modularCatwalkfin_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.40:538][109]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.40:732][131]LogTexture: Display: Building textures: /Game/Models/modularStairs/modularStairs_color.modularStairs_color (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.40:926][151]LogStaticMesh: Display: Building static mesh Hallway_Straingh...
+[2022.05.23-07.16.40:926][151]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Hallways/Hallway_Straingh.Hallway_Straingh
+[2022.05.23-07.16.40:941][152]LogTexture: Display: Building textures: /Game/Models/modularStairs/modularStairs_normal.modularStairs_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.40:954][153]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.41:051][162]LogTexture: Display: Building textures: /Game/Models/modularStairs/modularStairs_roughness.modularStairs_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.41:197][177]LogStaticMesh: Display: Building static mesh roomFin...
+[2022.05.23-07.16.41:227][180]LogStaticMesh: Fallback 0/1 [0.76s], num tris: 6915
+[2022.05.23-07.16.41:310][190]LogStaticMesh: ConstrainClusters:
+[2022.05.23-07.16.41:310][190]LogStaticMesh:   Input: 433 Clusters, 54546 Triangles and 103570 Vertices
+[2022.05.23-07.16.41:310][190]LogStaticMesh:   Output without splits: 433 Clusters, 54546 Triangles and 103570 Vertices
+[2022.05.23-07.16.41:310][190]LogStaticMesh:   Output with splits: 535 Clusters, 54546 Triangles and 103648 Vertices
+[2022.05.23-07.16.41:310][190]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 535, Slow Path Clusters: 0, 1 Material: 246, 2 Materials: 247, 3 Materials: 42, At Least 4 Materials: 0
+[2022.05.23-07.16.41:344][194]LogStaticMesh: WritePages:
+[2022.05.23-07.16.41:344][194]LogStaticMesh:   Root: GPU size: 32076 bytes. 1 Pages. 32076.000 bytes per page (97.888% utilization).
+[2022.05.23-07.16.41:344][194]LogStaticMesh:   Streaming: GPU size: 1107712 bytes. 9 Pages. 123079.109 bytes per page (93.902% utilization).
+[2022.05.23-07.16.41:344][194]LogStaticMesh:   Page data disk size: 1074984 bytes. Fixup data size: 4400 bytes.
+[2022.05.23-07.16.41:344][194]LogStaticMesh:   Total GPU size: 1139788 bytes, Total disk size: 1079384 bytes.
+[2022.05.23-07.16.41:344][194]LogStaticMesh: Encode [0.12s]
+[2022.05.23-07.16.41:355][195]LogStaticMesh: Imposter [0.00s]
+[2022.05.23-07.16.41:355][195]LogStaticMesh: Nanite build [2.28s]
+
+[2022.05.23-07.16.41:398][200]LogStaticMesh: Built static mesh [3.07s] /Game/Models/Rubble/sutiny_Sutiny_2.sutiny_Sutiny_2
+[2022.05.23-07.16.41:449][205]LogStaticMesh: Built static mesh [0.25s] /Game/Models/Rooms/Room2/roomFin.roomFin
+[2022.05.23-07.16.41:450][205]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.41:552][214]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.41:564][215]LogTexture: Display: Building textures: /Game/Models/Machine1/Machine1_albedo.Machine1_albedo (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.41:683][226]LogTexture: Display: Building textures: /Game/Models/Machine1/Machine1_Nrm.Machine1_Nrm (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.42:464][312]LogStaticMesh: Display: Building static mesh sutiny_Sutiny_1...
+[2022.05.23-07.16.42:503][316]LogStaticMesh: Display: Building static mesh Machine2...
+[2022.05.23-07.16.42:651][332]LogStaticMesh: Built static mesh [0.15s] /Game/Models/Machine2/Machine2.Machine2
+[2022.05.23-07.16.42:693][335]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.42:701][336]LogTexture: Display: Building textures: /Game/Models/Machine1/Machine1_roughness.Machine1_roughness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.43:391][414]LogStaticMesh: Built static mesh [0.92s] /Game/Models/Rubble/sutiny_Sutiny_1.sutiny_Sutiny_1
+[2022.05.23-07.16.43:501][425]LogStaticMesh: Display: Building static mesh asi_chladici_system_nebo_neco_idk_fakt...
+[2022.05.23-07.16.43:501][425]LogTexture: Display: Building textures: /Game/Models/Boxes/Box_2/Substance_painter/warehouse_box2_sp_material_OcclusionRoughnessMetallic.warehouse_box2_sp_material_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.43:510][426]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.43:585][435]LogStaticMesh: Built static mesh [0.10s] /Game/Models/Barrel/asi_chladici_system_nebo_neco_idk_fakt.asi_chladici_system_nebo_neco_idk_fakt
+[2022.05.23-07.16.43:629][440]LogStaticMesh: Display: Building static mesh warehouse_box1...
+[2022.05.23-07.16.43:673][445]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Boxes/Box_1/warehouse_box1.warehouse_box1
+[2022.05.23-07.16.43:694][447]LogTexture: Display: Building textures: /Game/Models/Boxes/Box_2/Substance_painter/warehouse_box2_sp_material_Normal.warehouse_box2_sp_material_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.43:784][453]LogStaticMesh: Display: Building static mesh Hallway_Curve_r...
+[2022.05.23-07.16.43:784][453]LogStaticMesh: Built static mesh [0.00s] /Game/Models/Hallways/Hallway_Curve_r.Hallway_Curve_r
+[2022.05.23-07.16.43:784][453]LogStaticMesh: Display: Building static mesh ladder_sp...
+[2022.05.23-07.16.43:785][453]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.43:835][454]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Ladder/ladder_sp.ladder_sp
+[2022.05.23-07.16.43:835][454]LogTexture: Display: Building textures: /Game/Models/Boxes/Box_2/Substance_painter/warehouse_box2_sp_material_BaseColor.warehouse_box2_sp_material_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.43:969][456]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/T_WoodenPallet_vh1icei_2K_DpR.T_WoodenPallet_vh1icei_2K_DpR (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.44:319][459]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/T_Wooden_Pallet_vh1icei_2K_N.T_Wooden_Pallet_vh1icei_2K_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.44:483][471]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.23-07.16.44:740][497]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Wooden_Pallet_vh1icei/T_Wooden_Pallet_vh1icei_2K_D.T_Wooden_Pallet_vh1icei_2K_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.45:074][534]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/Circle_diffuse.Circle_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.45:256][554]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/Display_roughness.Display_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.45:385][569]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/Display_diffuse.Display_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.45:550][585]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/1_uAp4K4IuVOaJp6v4B99KSQ.1_uAp4K4IuVOaJp6v4B99KSQ (BGRA8, 480X479 X1X1) (Required Memory Estimate: 4.385376 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.45:606][591]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/But5_diffuse.But5_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.45:654][596]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/But4_diffuse.But4_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.45:762][607]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/lever_diffuse.lever_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.45:832][614]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/Plane_diffuse.Plane_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.45:976][630]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/But1_007_diffuse.But1_007_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.46:349][670]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/panel_normal.panel_normal (TFO_BC5, 3072X3072 X1X1) (Required Memory Estimate: 180.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.46:478][682]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/panel_diffuse.panel_diffuse (TFO_AutoDXT, 3072X3072 X1X1) (Required Memory Estimate: 180.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.47:160][742]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/panel_roughness.panel_roughness (TFO_AutoDXT, 3072X3072 X1X1) (Required Memory Estimate: 180.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.47:303][755]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/PIG_diffuse.PIG_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.47:573][783]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/PY_diffuse.PY_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.47:704][796]LogTexture: Display: Building textures: /Game/Models/Buttons/Panel/PY_roughness.PY_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.47:897][817]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Door/ram_color.ram_color (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.47:939][821]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Door/ram_metallic.ram_metallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.48:038][831]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Door/ram_normal.ram_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.48:135][841]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Door/ram_roughness.ram_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.48:192][847]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Door/ram_specular.ram_specular (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.48:599][888]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/RustCoarse/rust_coarse_01_diff_4k.rust_coarse_01_diff_4k (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.48:891][913]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/RustCoarse/rust_coarse_01_nor_gl_4k.rust_coarse_01_nor_gl_4k (RGBA16F, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.49:625][985]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/RustCoarse/rust_coarse_01_rough_4k.rust_coarse_01_rough_4k (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.49:698][991]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/GreenMetalRust/green_metal_rust_diff_4k.green_metal_rust_diff_4k (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.50:585][ 74]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/GreenMetalRust/green_metal_rust_rough_4k.green_metal_rust_rough_4k (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.50:708][ 84]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/GreenMetalRust/green_metal_rust_nor_gl_4k.green_metal_rust_nor_gl_4k (RGBA16F, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.51:676][176]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/RustyMetal/rusty_metal_02_diff_4k.rusty_metal_02_diff_4k (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.51:965][201]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/RustyMetal/rusty_metal_02_nor_gl_4k.rusty_metal_02_nor_gl_4k (RGBA16F, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.52:343][232]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/RustyMetal/rusty_metal_02_rough_4k.rusty_metal_02_rough_4k (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.53:108][302]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Rock/rock_01_diff_4k.rock_01_diff_4k (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.53:800][369]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Rock/rock_01_nor_gl_4k.rock_01_nor_gl_4k (RGBA16F, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.53:960][383]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Rock/rock_01_rough_4k.rock_01_rough_4k (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.54:419][413]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Window/Window_BaseColor.Window_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.54:714][445]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Window/Window_Normal.Window_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.54:784][452]LogTexture: Display: Building textures: /Game/Models/Rooms/Room/Textures/Window/Window_roughness.Window_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.54:864][461]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/factory_brick_1k/textures/factory_brick_diff_1k.factory_brick_diff_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.55:030][480]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/factory_brick_1k/textures/factory_brick_nor_dx_1k.factory_brick_nor_dx_1k (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.55:168][496]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/factory_brick_1k/textures/factory_brick_rough_1k.factory_brick_rough_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.55:255][505]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/factory_brick_1k/textures/factory_brick_rough_ao_1k.factory_brick_rough_ao_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.55:413][522]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/green_metal_rust_1k/textures/green_metal_rust_ao_1k.green_metal_rust_ao_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.55:456][526]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/green_metal_rust_1k/textures/green_metal_rust_diff_1k.green_metal_rust_diff_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.55:640][547]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/green_metal_rust_1k/textures/green_metal_rust_nor_dx_1k.green_metal_rust_nor_dx_1k (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.55:724][556]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/green_metal_rust_1k/textures/green_metal_rust_rough_1k.green_metal_rust_rough_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.55:744][558]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/rusty_metal_02_1k/textures/rusty_metal_02_ao_1k.rusty_metal_02_ao_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.55:865][571]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/rusty_metal_02_1k/textures/rusty_metal_02_diff_1k.rusty_metal_02_diff_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.55:984][584]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/rusty_metal_02_1k/textures/rusty_metal_02_nor_dx_1k.rusty_metal_02_nor_dx_1k (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.56:073][594]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/rusty_metal_02_1k/textures/rusty_metal_02_rough_1k.rusty_metal_02_rough_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.56:120][599]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/factory_wall_1k/textures/factory_wall_ao_1k.factory_wall_ao_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.56:275][615]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/factory_wall_1k/textures/factory_wall_diff_1k.factory_wall_diff_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.56:408][630]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/factory_wall_1k/textures/factory_wall_nor_dx_1k.factory_wall_nor_dx_1k (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.56:545][645]LogTexture: Display: Building textures: /Game/Models/Rooms/Room2/Textures/factory_wall_1k/textures/factory_wall_rough_1k.factory_wall_rough_1k (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.56:583][648]LogTexture: Display: Building textures: /Game/Models/Boxes/Box_1/warehouse_box_roughness.warehouse_box_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.56:718][661]LogTexture: Display: Building textures: /Game/Models/Boxes/Box_1/warehouse_box_normal.warehouse_box_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.56:781][668]LogTexture: Display: Building textures: /Game/Models/Boxes/Box_1/warehouse_box_diffuse.warehouse_box_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.57:249][688]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Electrical_Boxes_vgyiedcaw/T_Electrical_Boxes_vgyiedcaw_2K_D.T_Electrical_Boxes_vgyiedcaw_2K_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.57:302][689]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Electrical_Boxes_vgyiedcaw/T_Electrical_Boxes_vgyiedcaw_2K_N.T_Electrical_Boxes_vgyiedcaw_2K_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.58:443][800]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Electrical_Boxes_vgyiedcaw/T_ElectricalBoxes_vgyiedcaw_2K_DpR.T_ElectricalBoxes_vgyiedcaw_2K_DpR (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.58:563][810]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Metal_Barrel_vijnbi3/T_Rusty_Metal_Barrel_vijnbi3_2K_D.T_Rusty_Metal_Barrel_vijnbi3_2K_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.16.59:745][944]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Metal_Barrel_vijnbi3/T_Rusty_Metal_Barrel_vijnbi3_2K_N.T_Rusty_Metal_Barrel_vijnbi3_2K_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.00:094][980]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Metal_Barrel_vijnbi3/T_RustyMetalBarrel_vijnbi3_2K_DpR.T_RustyMetalBarrel_vijnbi3_2K_DpR (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.01:057][ 83]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Metal_Barrel_vijnbjz/T_Rusty_Metal_Barrel_vijnbjz_2K_D.T_Rusty_Metal_Barrel_vijnbjz_2K_D (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.01:256][104]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Metal_Barrel_vijnbjz/T_Rusty_Metal_Barrel_vijnbjz_2K_N.T_Rusty_Metal_Barrel_vijnbjz_2K_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.02:143][201]LogTexture: Display: Building textures: /Game/Models/Barrel/barrel_diffuse.barrel_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.02:412][231]LogTexture: Display: Building textures: /Game/Megascans/3D_Assets/Rusty_Metal_Barrel_vijnbjz/T_RustyMetalBarrel_vijnbjz_2K_DpR.T_RustyMetalBarrel_vijnbjz_2K_DpR (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 160.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.02:669][256]LogTexture: Display: Building textures: /Game/Models/Barrel/barrel_roughness.barrel_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.03:376][339]LogTexture: Display: Building textures: /Game/Models/Ladder/ladder_sp_Material_Normal.ladder_sp_Material_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.03:376][339]LogTexture: Display: Building textures: /Game/Models/Ladder/ladder_sp_Material_BaseColor.ladder_sp_Material_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.04:978][526]LogMeshUtilities: Finished distance field build in 1.5s - 56x77x49 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 93% occupied, 2171 triangles, machine1
+[2022.05.23-07.17.05:427][579]LogTexture: Display: Building textures: /Game/Models/Ladder/ladder_sp_Material_OcclusionRoughnessMetallic.ladder_sp_Material_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.05:614][600]LogTexture: Display: Building textures: /Game/Models/Machine2/Machine2_BaseColor.Machine2_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.06:137][661]LogTexture: Display: Building textures: /Game/Models/Machine2/Machine2_Normal.Machine2_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.06:833][739]LogTexture: Display: Building textures: /Game/Models/Machine2/machine2_Roughness.machine2_Roughness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.08:539][938]LogMeshUtilities: Finished distance field build in 1.8s - 49x63x35 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 84% occupied, 8786 triangles, sutiny_Sutiny_4
+[2022.05.23-07.17.16:858][916]LogTexture: Display: Building textures: /Game/Models/PipeCorner/textures/pipe_corner_diffuse.pipe_corner_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.17:247][962]LogMeshUtilities: Finished distance field build in 8.9s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 70% occupied, 14899 triangles, room
+[2022.05.23-07.17.17:260][963]LogTexture: Display: Building textures: /Game/Models/Rubble/Brick.brick (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.21:958][516]LogTexture: Display: Building textures: /Game/Models/Rubble/dust.dust (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.22:161][540]LogMeshUtilities: Finished distance field build in 4.9s - 126x126x98 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 67% occupied, 290 triangles, room_small
+[2022.05.23-07.17.24:396][803]LogMeshUtilities: Finished distance field build in 2.2s - 77x126x77 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 60% occupied, 2 triangles, Hallway_Straingh
+[2022.05.23-07.17.24:403][804]LogTexture: Display: Building textures: /Game/Models/Rubble/metal.metal (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.24:561][821]LogTexture: Display: Building textures: /Game/Models/Shelves/shelf_diffuse.shelf_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.24:870][857]LogMeshUtilities: Finished mesh card build in 1.2s room tris:14899
+[2022.05.23-07.17.26:152][  6]LogMeshUtilities: Finished distance field build in 1.4s - 56x63x28 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 92% occupied, 8786 triangles, sutiny_Sutiny_2
+[2022.05.23-07.17.31:323][613]LogTexture: Display: Building textures: /Game/Models/Shelves/shelf_normal.shelf_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.32:492][749]LogTexture: Display: Building textures: /Game/Models/Shelves/shelf_roughness.shelf_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.32:808][787]LogMeshUtilities: Finished distance field build in 6.7s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 4430 triangles, roomFin
+[2022.05.23-07.17.33:238][836]LogTexture: Display: Building textures: /Game/Models/tools/Hammer/hammer_diffuse.hammer_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.33:330][846]LogTexture: Display: Building textures: /Game/Models/tools/Hammer/hammer_normal.hammer_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.35:281][ 68]LogMeshUtilities: Finished distance field build in 1.9s - 56x70x35 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 85% occupied, 8786 triangles, sutiny_Sutiny_1
+[2022.05.23-07.17.35:799][130]LogMeshUtilities: Finished mesh card build in 1.0s roomFin tris:4430
+[2022.05.23-07.17.36:422][204]LogTexture: Display: Building textures: /Game/Models/tools/Hammer/hammer_roughness.hammer_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.36:447][207]LogMeshUtilities: Finished distance field build in 1.2s - 70x77x105 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 43% occupied, 1173 triangles, asi_chladici_system_nebo_neco_idk_fakt
+[2022.05.23-07.17.36:478][209]LogTexture: Display: Building textures: /Game/Models/tools/Screwdriver/screwdriver_diffuse.screwdriver_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.38:929][499]LogTexture: Display: Building textures: /Game/Models/tools/Screwdriver/screwdriver_normal.screwdriver_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.39:071][515]LogMeshUtilities: Finished distance field build in 2.5s - 98x98x77 sparse distance field, 0.8Mb total, 0.0Mb always loaded, 58% occupied, 5 triangles, Hallway_Curve_r
+[2022.05.23-07.17.39:284][540]LogTexture: Display: Building textures: /Game/Models/tools/Screwdriver/screwdriver_roughness.screwdriver_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.39:416][555]LogTexture: Display: Building textures: /Game/Models/tools/Toolbox/toolbox_diffuse.toolbox_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.39:446][558]LogTexture: Display: Building textures: /Game/Models/tools/Toolbox/toolbox_normal.toolbox_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.39:550][570]LogTexture: Display: Building textures: /Game/Models/tools/Toolbox/toolbox_roughness.toolbox_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.39:608][576]LogTexture: Display: Building textures: /Game/Models/tools/Wrench/wrench_diffuse.wrench_diffuse (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.39:743][591]LogTexture: Display: Building textures: /Game/Models/tools/Wrench/wrench_metalness.wrench_metalness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.39:761][592]LogTexture: Display: Building textures: /Game/Models/tools/Wrench/wrench_normal.wrench_normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.17.39:868][603]LogTexture: Display: Building textures: /Game/Models/tools/Wrench/wrench_roughness.wrench_roughness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.18.07:004][727]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.193 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: ================================================
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Total job queries 1257, among them cache hits 75 (5.97%)
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Tracking 309 distinct input hashes that result in 128 distinct outputs (41.42%)
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: RAM used: 0.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Shaders Compiled: 1183
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Jobs assigned 329, completed 309 (93.92%)
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Time job spent in pending queue: average 101.26 s, longest 191.11 s
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Job execution time: average 4.75 s, max 18.84 s
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Job life time (pending + execution): average 100.67 s, max 191.11
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 191.11 s
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Jobs were issued in 225 batches (only local compilation was used), average 1.46 jobs/batch
+[2022.05.23-07.19.29:971][242]LogShaderCompilers: Display: Average processing rate: 1.62 jobs/sec
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display: Effective parallelization: 1.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.73 sec, max 2.13 sec, min 1.34 sec)
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 1.70 sec, max 2.21 sec, min 1.19 sec)
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 1.61 sec, max 3.35 sec, min 1.13 sec)
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 1.57 sec, max 1.57 sec, min 1.57 sec)
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 1.51 sec, max 1.65 sec, min 1.37 sec)
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 23.48% of total time (compiled   57 times, average 1.46 sec, max 11.62 sec, min 0.99 sec)
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 20.37% of total time (compiled   55 times, average 1.32 sec, max 2.69 sec, min 0.99 sec)
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.31% of total time (compiled   53 times, average 1.29 sec, max 2.39 sec, min 0.93 sec)
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.06% of total time (compiled   53 times, average 0.47 sec, max 0.99 sec, min 0.33 sec)
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.27% of total time (compiled    5 times, average 1.61 sec, max 3.35 sec, min 1.13 sec)
+[2022.05.23-07.19.29:972][242]LogShaderCompilers: Display: ================================================
+[2022.05.23-07.22.11:184][484]Cmd: stat fps
+[2022.05.23-07.22.38:311][331]LogShaderCompilers: Display: ================================================
+[2022.05.23-07.22.38:311][331]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.05.23-07.22.38:311][331]LogShaderCompilers: Display: Total job queries 1257, among them cache hits 75 (5.97%)
+[2022.05.23-07.22.38:311][331]LogShaderCompilers: Display: Tracking 579 distinct input hashes that result in 223 distinct outputs (38.51%)
+[2022.05.23-07.22.38:311][331]LogShaderCompilers: Display: RAM used: 0.68 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.08%
+[2022.05.23-07.22.38:311][331]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.05.23-07.22.38:311][331]LogShaderCompilers: Display: Shaders Compiled: 1183
+[2022.05.23-07.22.38:311][331]LogShaderCompilers: Display: Jobs assigned 599, completed 579 (96.66%)
+[2022.05.23-07.22.38:311][331]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display: Time job spent in pending queue: average 184.16 s, longest 379.33 s
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display: Job execution time: average 9.08 s, max 21.59 s
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display: Job life time (pending + execution): average 186.70 s, max 379.33
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 379.44 s
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display: Jobs were issued in 252 batches (only local compilation was used), average 2.38 jobs/batch
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display: Average processing rate: 1.53 jobs/sec
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display: Effective parallelization: 1.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    3 times, average 2.95 sec, max 6.02 sec, min 1.13 sec)
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    5 times, average 1.72 sec, max 1.79 sec, min 1.65 sec)
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   64 times, average 1.65 sec, max 11.62 sec, min 0.99 sec)
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   25 times, average 1.60 sec, max 3.43 sec, min 0.99 sec)
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 1.57 sec, max 1.57 sec, min 1.57 sec)
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 14.44% of total time (compiled   64 times, average 1.65 sec, max 11.62 sec, min 0.99 sec)
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 10.24% of total time (compiled   57 times, average 1.31 sec, max 2.69 sec, min 0.99 sec)
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.66% of total time (compiled   55 times, average 1.29 sec, max 2.39 sec, min 0.93 sec)
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.38% of total time (compiled   30 times, average 1.56 sec, max 4.10 sec, min 0.82 sec)
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.47% of total time (compiled   25 times, average 1.60 sec, max 3.43 sec, min 0.99 sec)
+[2022.05.23-07.22.38:312][331]LogShaderCompilers: Display: ================================================
+[2022.05.23-07.24.33:557][124]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.23-07.24.33:575][124]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.23-07.24.33:597][125]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.23-07.24.34:751][225]LogContentBrowser: Attempting asset rename: NewFolder -> OLD
+[2022.05.23-07.24.34:752][225]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.23-07.24.35:923][303]LogTexture: Display: Building textures: /Game/Models/tools/Toolbox/kyler-fleming-toolbox-render-01.kyler-fleming-toolbox-render-01 (BGRA8, 1886X1600 X1X1) (Required Memory Estimate: 57.556152 MB), EncodeSpeed: Fast
+[2022.05.23-07.24.37:673][389]LogTexture: Display: Building textures: /Game/Models/tools/Toolbox/toolbox_metalness.toolbox_metalness (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.24.39:626][554]LogPackageLocalizationCache: Processed 33 localized package path(s) for 1 prioritized culture(s) in 0.007279 seconds
+[2022.05.23-07.24.39:670][554]LogSavePackage: Moving output files for package: /Game/Models/tools/Toolbox/OLD/toolbox_roughness
+[2022.05.23-07.24.39:670][554]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Saved/toolbox_roughness5D03A3AD45477D95F9B60C9D8462D437.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Models/tools/Toolbox/OLD/toolbox_roughness.uasset'
+[2022.05.23-07.24.39:681][554]LogSavePackage: Moving output files for package: /Game/Models/tools/Toolbox/OLD/kyler-fleming-toolbox-render-01
+[2022.05.23-07.24.39:681][554]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Saved/kyler-fleming-toolbox-render-015AE1A3DF4A4411CD592353943F2E3F7E.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Models/tools/Toolbox/OLD/kyler-fleming-toolbox-render-01.uasset'
+[2022.05.23-07.24.39:771][554]LogSavePackage: Moving output files for package: /Game/Models/tools/Toolbox/OLD/Toolbox
+[2022.05.23-07.24.39:772][554]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Saved/Toolbox8B08812946CA43B99BF7FA860384C645.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Models/tools/Toolbox/OLD/Toolbox.uasset'
+[2022.05.23-07.24.39:773][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/tools/Toolbox/Toolbox" FILE="../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Models/tools/Toolbox/Toolbox.uasset" SILENT=true
+[2022.05.23-07.24.39:775][554]LogSavePackage: Moving output files for package: /Game/Models/tools/Toolbox/Toolbox
+[2022.05.23-07.24.39:776][554]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Saved/ToolboxF6D7A3BA40D971A41657B48DFDEE8113.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Models/tools/Toolbox/Toolbox.uasset'
+[2022.05.23-07.24.39:826][554]LogSavePackage: Moving output files for package: /Game/Models/tools/Toolbox/OLD/toolbox_diffuse
+[2022.05.23-07.24.39:827][554]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Saved/toolbox_diffuse26CFAFF141D38B3736648688A67CA2AE.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Models/tools/Toolbox/OLD/toolbox_diffuse.uasset'
+[2022.05.23-07.24.39:830][554]LogSavePackage: Moving output files for package: /Game/Models/tools/Toolbox/OLD/toolbox_mat
+[2022.05.23-07.24.39:830][554]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Saved/toolbox_mat2F2CB58646D40050F5AD42B0B71CD53E.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Models/tools/Toolbox/OLD/toolbox_mat.uasset'
+[2022.05.23-07.24.39:861][554]LogSavePackage: Moving output files for package: /Game/Models/tools/Toolbox/OLD/toolbox_metalness
+[2022.05.23-07.24.39:861][554]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Saved/toolbox_metalness436FACC1499C3D75FC9CDCA8463435B1.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Models/tools/Toolbox/OLD/toolbox_metalness.uasset'
+[2022.05.23-07.24.39:961][554]LogSavePackage: Moving output files for package: /Game/Models/tools/Toolbox/OLD/toolbox_normal
+[2022.05.23-07.24.39:962][554]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Saved/toolbox_normalA1BE04FB4DB233ED8C7E9990200A9DF9.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/PraxeVSB/Content/Models/tools/Toolbox/OLD/toolbox_normal.uasset'
+[2022.05.23-07.24.40:020][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.05.23-07.24.40:033][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.23-07.24.40:044][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.05.23-07.24.40:061][554]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.23-07.24.40:061][554]LogContentValidation: Display: Validating ObjectRedirector /Game/Models/tools/Toolbox/Toolbox.Toolbox
+[2022.05.23-07.24.40:062][554]LogContentValidation: Display: Validating Texture2D /Game/Models/tools/Toolbox/OLD/toolbox_metalness.toolbox_metalness
+[2022.05.23-07.24.40:062][554]LogContentValidation: Display: Validating Texture2D /Game/Models/tools/Toolbox/OLD/kyler-fleming-toolbox-render-01.kyler-fleming-toolbox-render-01
+[2022.05.23-07.24.40:062][554]LogContentValidation: Display: Validating Texture2D /Game/Models/tools/Toolbox/OLD/toolbox_diffuse.toolbox_diffuse
+[2022.05.23-07.24.40:062][554]LogContentValidation: Display: Validating Texture2D /Game/Models/tools/Toolbox/OLD/toolbox_normal.toolbox_normal
+[2022.05.23-07.24.40:062][554]LogContentValidation: Display: Validating Texture2D /Game/Models/tools/Toolbox/OLD/toolbox_roughness.toolbox_roughness
+[2022.05.23-07.24.40:062][554]LogContentValidation: Display: Validating Material /Game/Models/tools/Toolbox/OLD/toolbox_mat.toolbox_mat
+[2022.05.23-07.24.40:062][554]LogContentValidation: Display: Validating StaticMesh /Game/Models/tools/Toolbox/OLD/Toolbox.Toolbox
+[2022.05.23-07.24.46:726][965]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Administrator\Downloads\Toolbox_sp_Material_OcclusionRoughnessMetallic.jpg)
+[2022.05.23-07.24.46:750][965]LogTexture: Display: Building textures: /Game/Models/tools/Toolbox/Toolbox_sp_Material_OcclusionRoughnessMetallic.Toolbox_sp_Material_OcclusionRoughnessMetallic (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.24.46:750][965]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Administrator\Downloads\Toolbox_sp.fbx)
+[2022.05.23-07.24.46:786][965]LogFbx: Loading FBX Scene from C:\Users\Administrator\Downloads\Toolbox_sp.fbx
+[2022.05.23-07.24.46:799][965]LogFbx: FBX Scene Loaded Succesfully
+[2022.05.23-07.24.55:284][965]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.05.23-07.24.55:320][965]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 1BDD039F61CAFE9213ADBFA67869D67F6DCD65A9), compiling. 
+[2022.05.23-07.24.55:328][965]LogFbx: Display: Triangulating static mesh toolbox
+[2022.05.23-07.24.55:475][965]LogStaticMesh: Display: Building static mesh Toolbox_sp...
+[2022.05.23-07.24.55:550][965]LogStaticMesh: Built static mesh [0.07s] /Game/Models/tools/Toolbox/Toolbox_sp.Toolbox_sp
+[2022.05.23-07.24.55:591][965]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Administrator\Downloads\Toolbox_sp_Material_BaseColor.jpg)
+[2022.05.23-07.24.55:602][965]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Administrator\Downloads\Toolbox_sp_Material_Normal.jpg)
+[2022.05.23-07.24.55:623][965]LogTexture: Display: Building textures: /Game/Models/tools/Toolbox/Toolbox_sp_Material_BaseColor.Toolbox_sp_Material_BaseColor (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2022.05.23-07.24.55:649][965]LogTexture: Display: Building textures: /Game/Models/tools/Toolbox/Toolbox_sp_Material_Normal.Toolbox_sp_Material_Normal (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
