@@ -828,3 +828,94 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2022.05.24-09.24.43:656][525]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/IndrustrialLamp.IndrustrialLamp
 [2022.05.24-09.24.43:657][525]LogContentValidation: Display: Validating World /Game/Maps/OldFactoryLevel.OldFactoryLevel
 [2022.05.24-09.24.43:658][525]LogAutoSizeComments: Saved node cache to ../../../Engine/Plugins/Marketplace/AutoSizeComments/ASCCache/37D9DBE244521D37BDBBE58621DC563D.json took   0.86ms
+[2022.05.24-09.27.25:586][744]Cmd: EDIT COPY
+[2022.05.24-09.27.25:924][768]Cmd: EDIT PASTE
+[2022.05.24-09.27.25:978][769]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.27:226][845]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.27:630][882]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.27:700][890]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.27:893][912]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.27:912][914]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.27:929][916]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.27:968][918]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.32:515][404]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.32:533][406]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.33:058][438]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:236][668]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:281][673]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:315][677]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:357][682]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:391][686]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:427][690]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:460][694]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:504][699]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:538][703]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:605][711]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:656][717]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:675][719]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:701][722]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:719][724]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:813][734]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:892][742]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:910][744]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:927][746]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:971][751]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.35:989][753]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.36:015][756]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.36:086][764]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.36:125][768]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.36:141][770]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.36:553][819]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.36:645][830]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.37:046][876]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.39:372][140]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.39:973][212]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.40:274][246]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.44:291][650]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.44:397][656]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.44:562][672]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.44:598][676]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.44:636][680]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.44:693][686]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.44:719][689]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.44:736][691]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.44:754][693]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.44:925][713]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.45:446][773]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.49:800][264]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.50:102][300]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.50:218][314]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.50:629][363]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.51:024][408]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.27.57:856][950]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-09.28.47:328][800]Cmd: SELECT NONE
+[2022.05.24-09.28.50:318][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.05.24-09.28.50:358][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OldFactoryLevel" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.24-09.28.50:387][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.24-09.28.50:498][939]LogSavePackage: Moving output files for package: /Game/Maps/OldFactoryLevel
+[2022.05.24-09.28.50:498][939]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/OldFactoryLevel24455D08481EAE4B907599BD23B16601.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap'
+[2022.05.24-09.28.50:517][939]LogFileHelpers: No new changes to save!
+[2022.05.24-09.28.50:517][939]LogFileHelpers: Saving map 'OldFactoryLevel' took 0.159
+[2022.05.24-09.28.50:532][939]AssetCheck: New page: Asset Save: OldFactoryLevel
+[2022.05.24-09.28.50:532][939]LogContentValidation: Display: Validating World /Game/Maps/OldFactoryLevel.OldFactoryLevel
+[2022.05.24-10.00.00:466][ 94]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/OldFactoryLevel.
+[2022.05.24-10.00.01:804][139]Cmd: SELECT NONE
+[2022.05.24-10.01.32:186][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.24-10.01.32:189][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OldFactoryLevel" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Saved/Autosaves/Game/Maps/OldFactoryLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.24-10.01.32:303][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/OldFactoryLevel_Auto1
+[2022.05.24-10.01.32:303][347]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/OldFactoryLevel_Auto1F528F0A248E2AF3655EAA8AB7FD3058C.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/Autosaves/Game/Maps/OldFactoryLevel_Auto1.umap'
+[2022.05.24-10.01.32:307][347]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/OldFactoryLevel' took 0.158
+[2022.05.24-10.01.32:307][347]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.158
+[2022.05.24-10.02.22:342][550]LogSlate: Window 'IndrustrialLamp' being destroyed
+[2022.05.24-10.02.22:347][550]LogSlate: Window 'IndrustrialLamp' being destroyed
+[2022.05.24-10.02.22:359][550]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.05.24-10.02.22:359][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.24-10.02.24:547][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.05.24-10.02.24:595][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OldFactoryLevel" FILE="D:/pav0531/UE5 Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.24-10.02.24:624][696]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.24-10.02.24:748][696]LogSavePackage: Moving output files for package: /Game/Maps/OldFactoryLevel
+[2022.05.24-10.02.24:748][696]LogSavePackage: Moving 'D:/pav0531/UE5 Projects/PraxeVSB/Saved/OldFactoryLevel14203FAE475C9BE44CBB3FBC5709E120.tmp' to 'D:/pav0531/UE5 Projects/PraxeVSB/Content/Maps/OldFactoryLevel.umap'
+[2022.05.24-10.02.24:775][696]LogFileHelpers: No new changes to save!
+[2022.05.24-10.02.24:775][696]LogFileHelpers: Saving map 'OldFactoryLevel' took 0.180
+[2022.05.24-10.02.24:798][696]AssetCheck: New page: Asset Save: OldFactoryLevel
+[2022.05.24-10.02.24:798][696]LogContentValidation: Display: Validating World /Game/Maps/OldFactoryLevel.OldFactoryLevel
