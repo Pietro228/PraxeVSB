@@ -13,7 +13,3 @@ Saved
 *.xcworkspace
 *.sln
 *.log
-Intermediate/CachedAssetRegistry.bin
-*.bin
-Saved/AutoScreenshot.png
-Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
