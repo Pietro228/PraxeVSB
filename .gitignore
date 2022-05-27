@@ -17,3 +17,5 @@ Intermediate/CachedAssetRegistry.bin
 *.bin
 Saved/AutoScreenshot.png
 Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Content/Sounds/zvuky_pozadi_1.uasset
+Content/Sounds/zvuky_pozadi_2.uasset
